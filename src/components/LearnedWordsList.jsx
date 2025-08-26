@@ -1,8 +1,8 @@
 import React, { useState } from 'react';
-import { Home } from 'lucide-react';
+import { Home, XCircle } from 'lucide-react';
 
-export default function LearnedWordsList({ setCurrentView, allWords, learnedWordsIndices }) {
-const learnedWords = allWords.filter((_, index) => learnedWordsIndices.has(index));
+export default function LearnedWordsList({ setCurrentView, allWords, learnedWordsIndices, setLearnedWordsIndices }) {
+  const learnedWords = allWords.filter((_, index) => learnedWordsIndices.has(index));
   const [searchTerm, setSearchTerm] = useState('');
 
   const filteredLearnedWords = learnedWords.filter(word =>
@@ -10,8 +10,20 @@ const learnedWords = allWords.filter((_, index) => learnedWordsIndices.has(index
     word.definition.toLowerCase().includes(searchTerm.toLowerCase())
   );
 
+
+  const handleRemoveLearnedWord = (wordToRemove) => {
+    const originalIndex = allWords.indexOf(wordToRemove);
+    if (originalIndex !== -1) {
+      setLearnedWordsIndices(prevSet => {
+        const newSet = new Set(prevSet);
+        newSet.delete(originalIndex);
+        return newSet;
+      });
+    }
+  };
+
   return (
-    <div className="flex flex-col items-center min-h-screen p-4">
+    <div className="flex flex-col items-center min-h-svh p-4">
       {/* Back to Home Button */}
       <button
         onClick={() => setCurrentView('home')}
@@ -47,6 +59,12 @@ const learnedWords = allWords.filter((_, index) => learnedWordsIndices.has(index
                 <p className="text-lg font-hebrewRubik text-gray-700 text-right">
                   {word.definition}
                 </p>
+                <button
+                  onClick={() => handleRemoveLearnedWord(word)}
+                  className="mt-2 sm:mt-0 px-3 py-1 bg-red-500 text-white rounded-full text-sm hover:bg-red-600 transition-colors flex items-center"
+                >
+                  <XCircle size={16} className="mr-1" /> Remove
+                </button>
               </div>
             ))}
           </div>

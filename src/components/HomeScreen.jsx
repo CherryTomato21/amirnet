@@ -1,9 +1,9 @@
 import React from 'react';
-import { ChevronLeft, ChevronRight, CheckCircle, Circle, Home, BookOpen, Gamepad, ClipboardList, Link, List } from 'lucide-react'; // Added 'List' icon for Learned Words List
+import { ChevronLeft, ChevronRight, CheckCircle, Circle, Home, BookOpen, Gamepad, ClipboardList, Link, List, XCircle } from 'lucide-react'; // Added 'XCircle' icon for removing words
 
 export default function HomeScreen({ setCurrentView, learnedWordsCount, totalWordsCount }) {
   return (
-    <div className="flex flex-col items-center justify-center min-h-screen">
+    <div className="flex flex-col items-center justify-center min-h-svh">
       <h1 className="text-4xl sm:text-5xl font-extrabold font-hebrewRubik text-indigo-800 mb-12 text-center drop-shadow-md">
         הכנה למבחן אמירנט
       </h1>

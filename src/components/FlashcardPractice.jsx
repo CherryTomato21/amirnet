@@ -11,8 +11,8 @@ const debounce = (func, delay) => {
   };
 };
 
-export default function FlashcardPractice({  setCurrentView, allWords, learnedWordsIndices, setLearnedWordsIndices }) {
- const [unlearnedWords, setUnlearnedWords] = useState([]);
+export default function FlashcardPractice({ setCurrentView, allWords, learnedWordsIndices, setLearnedWordsIndices }) {
+  const [unlearnedWords, setUnlearnedWords] = useState([]);
   const [currentWordIndex, setCurrentWordIndex] = useState(0);
   const [isFlipped, setIsFlipped] = useState(false);
   const [message, setMessage] = useState('');
@@ -22,13 +22,35 @@ export default function FlashcardPractice({  setCurrentView, allWords, learnedWo
   useEffect(() => {
     if (allWords.length > 0) {
       const filteredWords = allWords.filter((_, index) => !learnedWordsIndices.has(index));
-      setUnlearnedWords(filteredWords.sort(() => Math.random() - 0.5)); // Shuffle unlearned words
-      setIsLoading(false);
-    } else if (allWords.length === 0) {
-        setIsLoading(false); // No words to load, so not loading anymore
-    }
-  }, [allWords, learnedWordsIndices]);
+      const shuffledWords = [...filteredWords].sort(() => Math.random() - 0.5);
 
+      // Defer the state updates to avoid "Cannot update a component while rendering a different component" warning
+      const timer = setTimeout(() => {
+        setUnlearnedWords(shuffledWords);
+        setIsLoading(false);
+
+        // Adjust currentWordIndex if needed after new unlearnedWords are set
+        // If current index is out of bounds, or current word is no longer in list (now learned)
+        // Reset to the first word of the new shuffled list if available, otherwise 0.
+        if (currentWordIndex >= shuffledWords.length || (shuffledWords.length > 0 && !shuffledWords.includes(unlearnedWords[currentWordIndex]))) {
+            setCurrentWordIndex(0);
+        } else if (shuffledWords.length === 0) {
+            setCurrentWordIndex(0); // No words left
+        }
+      }, 0); // Defer to the next microtask queue
+
+      return () => clearTimeout(timer); // Cleanup timer
+
+    } else if (allWords.length === 0) {
+        // Also defer for the no-words case
+        const timer = setTimeout(() => {
+            setIsLoading(false);
+            setUnlearnedWords([]);
+            setCurrentWordIndex(0);
+        }, 0);
+        return () => clearTimeout(timer);
+    }
+  }, [allWords, learnedWordsIndices]); // Removed currentWordIndex and currentWord from dependencies to prevent infinite loop
 
   // Display message helper
   const showMessage = (text) => {
@@ -48,7 +70,8 @@ export default function FlashcardPractice({  setCurrentView, allWords, learnedWo
     let nextIndex = startIndex;
     for (let i = 0; i < unlearnedWords.length; i++) {
         nextIndex = (startIndex + 1 + i) % unlearnedWords.length;
-        if (!learnedWordsIndices.has(allWords.indexOf(unlearnedWords[nextIndex]))) {
+        // Check if this word is globally unlearned
+        if (allWords.indexOf(unlearnedWords[nextIndex]) !== -1 && !learnedWordsIndices.has(allWords.indexOf(unlearnedWords[nextIndex]))) {
             return nextIndex;
         }
     }
@@ -59,7 +82,8 @@ export default function FlashcardPractice({  setCurrentView, allWords, learnedWo
     let prevIndex = startIndex;
     for (let i = 0; i < unlearnedWords.length; i++) {
         prevIndex = (startIndex - 1 - i + unlearnedWords.length) % unlearnedWords.length;
-        if (!learnedWordsIndices.has(allWords.indexOf(unlearnedWords[prevIndex]))) {
+        // Check if this word is globally unlearned
+        if (allWords.indexOf(unlearnedWords[prevIndex]) !== -1 && !learnedWordsIndices.has(allWords.indexOf(unlearnedWords[prevIndex]))) {
             return prevIndex;
         }
     }
@@ -110,7 +134,7 @@ export default function FlashcardPractice({  setCurrentView, allWords, learnedWo
 
   if (isLoading) {
     return (
-      <div className="flex items-center justify-center min-h-screen bg-gradient-to-br from-blue-50 to-indigo-100 font-inter p-4">
+      <div className="flex items-center justify-center min-h-svh bg-gradient-to-br from-blue-50 to-indigo-100 font-inter p-4">
         <p className="text-xl text-indigo-700 animate-pulse">Loading vocabulary...</p>
       </div>
     );
@@ -118,7 +142,7 @@ export default function FlashcardPractice({  setCurrentView, allWords, learnedWo
 
   if (error) {
     return (
-      <div className="flex flex-col items-center justify-center min-h-screen bg-red-50 font-inter p-4">
+      <div className="flex flex-col items-center justify-center min-h-svh bg-red-50 font-inter p-4">
         <p className="text-xl text-red-700 mb-4">{error}</p>
         <button
           onClick={() => setCurrentView('home')}
@@ -132,7 +156,7 @@ export default function FlashcardPractice({  setCurrentView, allWords, learnedWo
 
   if (unlearnedWords.length === 0) {
     return (
-      <div className="flex flex-col items-center justify-center min-h-screen bg-gray-100 font-inter p-4">
+      <div className="flex flex-col items-center justify-center min-h-svh bg-gray-100 font-inter p-4">
         <p className="text-xl text-gray-700 mb-4">You've learned all the words! Great job!</p>
         <button
           onClick={() => setCurrentView('home')}
@@ -145,7 +169,7 @@ export default function FlashcardPractice({  setCurrentView, allWords, learnedWo
   }
 
   return (
-    <div className="flex flex-col items-center justify-center min-h-screen">
+    <div className="flex flex-col items-center justify-center min-h-svh">
       {message && (
         <div className="fixed top-4 bg-green-500 text-white px-4 py-2 rounded-lg shadow-lg animate-fade-in-down z-50">
           {message}
