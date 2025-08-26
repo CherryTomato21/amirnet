@@ -8,32 +8,12 @@
     "definition": "בטן"
   },
   {
-    "term": "ability",
-    "definition": "יכולת"
-  },
-  {
-    "term": "abnormal",
-    "definition": "לא נורמלי"
-  },
-  {
     "term": "abolish",
     "definition": "לבטל"
   },
   {
-    "term": "above",
-    "definition": "מעל"
-  },
-  {
-    "term": "absolute",
-    "definition": "מוחלט, מושלם"
-  },
-  {
-    "term": "absolutely",
-    "definition": "באופן מוחלט"
-  },
-  {
     "term": "absorb",
-    "definition": "לקלוט, לספוג, להתעמק"
+    "definition": "לקלוט, לספוג"
   },
   {
     "term": "absorbent",
@@ -56,14 +36,6 @@
     "definition": "להאיץ"
   },
   {
-    "term": "accept",
-    "definition": "לקבל, להסכים"
-  },
-  {
-    "term": "acceptable",
-    "definition": "מקובל"
-  },
-  {
     "term": "acceptance",
     "definition": "קבלה"
   },
@@ -72,16 +44,8 @@
     "definition": "גישה, כניסה"
   },
   {
-    "term": "accessibility",
-    "definition": "נגישות"
-  },
-  {
     "term": "accessible",
     "definition": "נגיש"
-  },
-  {
-    "term": "accessory",
-    "definition": "מסייע, מאפשר, שותף , אביזר"
   },
   {
     "term": "accompany",
@@ -98,10 +62,6 @@
   {
     "term": "accomplishment",
     "definition": "הישג, השלמה"
-  },
-  {
-    "term": "according to",
-    "definition": "על פי"
   },
   {
     "term": "accordingly",
@@ -148,10 +108,6 @@
     "definition": "להשיג, להשלים"
   },
   {
-    "term": "achievement",
-    "definition": "הישג"
-  },
-  {
     "term": "acquire",
     "definition": "לרכוש, להשיג"
   },
@@ -177,7 +133,7 @@
   },
   {
     "term": "address",
-    "definition": "כתובת"
+    "definition": "כתובת, להתייחס ל"
   },
   {
     "term": "adhere to",
@@ -204,10 +160,6 @@
     "definition": "ניהולי"
   },
   {
-    "term": "administrator",
-    "definition": "מנהל"
-  },
-  {
     "term": "admit",
     "definition": "להודות"
   },
@@ -228,16 +180,8 @@
     "definition": "נעורים' גיל ההתבגרות"
   },
   {
-    "term": "adopt",
-    "definition": "לאמץ"
-  },
-  {
     "term": "advance",
     "definition": "התקדמות, להתקדם, מקדמה"
-  },
-  {
-    "term": "advantage",
-    "definition": "יתרון"
   },
   {
     "term": "advantageous",
@@ -256,20 +200,8 @@
     "definition": "פרסומת, פרסום"
   },
   {
-    "term": "advice",
-    "definition": "עצה"
-  },
-  {
     "term": "advocate",
     "definition": "לסנגר, לדגול ב..."
-  },
-  {
-    "term": "affect",
-    "definition": "להשפיע"
-  },
-  {
-    "term": "affection",
-    "definition": "חיבה"
   },
   {
     "term": "afflict",
@@ -280,68 +212,20 @@
     "definition": "להרשות לעצמך"
   },
   {
-    "term": "against",
-    "definition": "נגד"
-  },
-  {
-    "term": "age",
-    "definition": "גיל"
-  },
-  {
-    "term": "agenda",
-    "definition": "סדר יום"
-  },
-  {
-    "term": "aggression",
-    "definition": "תוקפנות"
-  },
-  {
-    "term": "aggressive",
-    "definition": "תוקפני, אגרסיבי"
-  },
-  {
-    "term": "agree",
-    "definition": "להסכים"
-  },
-  {
     "term": "agriculture",
     "definition": "חקלאות"
   },
   {
     "term": "aim",
-    "definition": "מטרה, כיוון, לכוון, להתעתד"
-  },
-  {
-    "term": "air",
-    "definition": "אוויר"
-  },
-  {
-    "term": "airplane",
-    "definition": "מטוס"
-  },
-  {
-    "term": "airport",
-    "definition": "שדה תעופה"
-  },
-  {
-    "term": "alert",
-    "definition": "אזעקה, מצב היכון, להזהיר, ער, מוכן"
+    "definition": "מטרה, כיוון, לכוון"
   },
   {
     "term": "alertness",
     "definition": "עירנות, דריכות"
   },
   {
-    "term": "alien",
-    "definition": "חוצן"
-  },
-  {
     "term": "allegedly",
     "definition": "לכאורה"
-  },
-  {
-    "term": "allow",
-    "definition": "להרשות"
   },
   {
     "term": "allow for",
@@ -358,10 +242,6 @@
   {
     "term": "ally",
     "definition": "בעל ברית, לחבור, להתחבר"
-  },
-  {
-    "term": "also",
-    "definition": "גם"
   },
   {
     "term": "alternate",
@@ -408,36 +288,12 @@
     "definition": "בקרב, בין כמה דברים, נמנה עם"
   },
   {
-    "term": "amount",
-    "definition": "סכום, להסתכם"
-  },
-  {
     "term": "ancestor",
     "definition": "אב קדמון"
   },
   {
-    "term": "ancient",
-    "definition": "עתיק"
-  },
-  {
     "term": "annex",
     "definition": "אגף, תוספת, לספח, לצרף"
-  },
-  {
-    "term": "annoy",
-    "definition": "להרגיז"
-  },
-  {
-    "term": "anxiety",
-    "definition": "חרדה"
-  },
-  {
-    "term": "anxious",
-    "definition": "חרד, מודאג, משתוקק"
-  },
-  {
-    "term": "apartment",
-    "definition": "דירה"
   },
   {
     "term": "appear",
@@ -480,32 +336,12 @@
     "definition": "להסכים, לאשר"
   },
   {
-    "term": "background",
-    "definition": "רקע"
-  },
-  {
-    "term": "balance",
-    "definition": "מאזניים, איזון, שיווי משקל, לאזן"
-  },
-  {
     "term": "bamboozle",
     "definition": "לבלבל, לרמות"
   },
   {
-    "term": "ban",
-    "definition": "להחרים, לאסור, חרם, איסור"
-  },
-  {
-    "term": "band",
-    "definition": "להקה"
-  },
-  {
     "term": "barefoot",
     "definition": "יחף"
-  },
-  {
-    "term": "barely",
-    "definition": "בקושי"
   },
   {
     "term": "barrack",
@@ -516,14 +352,6 @@
     "definition": "מגורי חיילים"
   },
   {
-    "term": "barrier",
-    "definition": "מחסום"
-  },
-  {
-    "term": "base",
-    "definition": "בסיס, שפל"
-  },
-  {
     "term": "base on",
     "definition": "לבסס על"
   },
@@ -532,16 +360,8 @@
     "definition": "גיגית, אגם מים, קערה"
   },
   {
-    "term": "bathroom",
-    "definition": "חדר אמבטיה"
-  },
-  {
     "term": "be aware of",
     "definition": "להיות מודע"
-  },
-  {
-    "term": "bedroom",
-    "definition": "חדר שינה"
   },
   {
     "term": "beforehand",
@@ -552,10 +372,6 @@
     "definition": "להתחיל"
   },
   {
-    "term": "behavior",
-    "definition": "התנהגות"
-  },
-  {
     "term": "bend",
     "definition": "לעקם"
   },
@@ -564,28 +380,13 @@
     "definition": "מתחת"
   },
   {
-    "term": "benefit",
-    "definition": "תועלת, תגמול, קצבה, הטבה, להרוויח, רווח"
-  },
-  {
     "term": "besides",
     "definition": "חוץ מזה, בנוסף על"
   },
-  {
-    "term": "betray",
-    "definition": "לבגוד"
-  },
+
   {
     "term": "betrayal",
     "definition": "בגידה"
-  },
-  {
-    "term": "between",
-    "definition": "בין"
-  },
-  {
-    "term": "bitter",
-    "definition": "מר, מכאיב, צורב"
   },
   {
     "term": "bizarre",
@@ -600,18 +401,6 @@
     "definition": "חילול השם"
   },
   {
-    "term": "bleed",
-    "definition": "לדמם"
-  },
-  {
-    "term": "bloom",
-    "definition": "לפרוח, ללבלב"
-  },
-  {
-    "term": "borrow",
-    "definition": "לשאול חפץ, ללוות כסף"
-  },
-  {
     "term": "bother",
     "definition": "להטריד, טרחה"
   },
@@ -620,56 +409,16 @@
     "definition": "מטריד, מרגיז"
   },
   {
-    "term": "bottle",
-    "definition": "בקבוק"
-  },
-  {
     "term": "bottomless",
     "definition": "ללא תחתית"
-  },
-  {
-    "term": "branch",
-    "definition": "ענף"
-  },
-  {
-    "term": "brave",
-    "definition": "אמיץ"
-  },
-  {
-    "term": "bread",
-    "definition": "לחם"
   },
   {
     "term": "breadth",
     "definition": "רוחב"
   },
   {
-    "term": "break",
-    "definition": "לשבור"
-  },
-  {
-    "term": "breakdown",
-    "definition": "התמוטטות"
-  },
-  {
-    "term": "breakfast",
-    "definition": "ארוחת בוקר"
-  },
-  {
-    "term": "breath",
-    "definition": "לנשום, נשימה"
-  },
-  {
-    "term": "bride",
-    "definition": "כלה"
-  },
-  {
     "term": "bridle",
     "definition": "רסן, לרסן, לשים רסן על..."
-  },
-  {
-    "term": "bright",
-    "definition": "מבריק, חכם, בוהק, מאיר"
   },
   {
     "term": "bring",
@@ -686,14 +435,6 @@
   {
     "term": "broaden",
     "definition": "להרחיב"
-  },
-  {
-    "term": "brother",
-    "definition": "אח"
-  },
-  {
-    "term": "brutality",
-    "definition": "אכזריות"
   },
   {
     "term": "brute",
@@ -720,40 +461,12 @@
     "definition": "הבהרה, טיהור"
   },
   {
-    "term": "clarify",
-    "definition": "להבהיר, לטהר"
+    "term": "clutter",
+    "definition": "עומס, אִי-סֵדֶר"
   },
   {
     "term": "classify",
     "definition": "לסווג"
-  },
-  {
-    "term": "clean",
-    "definition": "נקי"
-  },
-  {
-    "term": "clear",
-    "definition": "בהיר, צלול, משוחרר, לסלק, לטהר, לפנות"
-  },
-  {
-    "term": "clever",
-    "definition": "פיקח"
-  },
-  {
-    "term": "climate",
-    "definition": "אקלים"
-  },
-  {
-    "term": "clock",
-    "definition": "שעון"
-  },
-  {
-    "term": "cloud",
-    "definition": "ענן"
-  },
-  {
-    "term": "coin",
-    "definition": "מטבע"
   },
   {
     "term": "collaborate",
@@ -762,18 +475,6 @@
   {
     "term": "collaboration",
     "definition": "שיתוף פעולה"
-  },
-  {
-    "term": "collapse",
-    "definition": "להתמוטט, התמוטטות, לקפל"
-  },
-  {
-    "term": "collect",
-    "definition": "לאסוף"
-  },
-  {
-    "term": "come",
-    "definition": "לבוא"
   },
   {
     "term": "commence",
@@ -788,20 +489,12 @@
     "definition": "מסחר"
   },
   {
-    "term": "commercial",
-    "definition": "מסחרי, פרסומת"
-  },
-  {
     "term": "commiserate",
     "definition": "להשתתף בצער"
   },
   {
     "term": "common",
-    "definition": "נפוץ"
-  },
-  {
-    "term": "communicate",
-    "definition": "לתקשר"
+    "definition": "נפוץ, משותף, המוני"
   },
   {
     "term": "communication",
@@ -816,20 +509,12 @@
     "definition": "נסיעה משותפת מפרברים לעבודה בעיר, להחליף"
   },
   {
-    "term": "company",
-    "definition": "חברה, פלוגה"
-  },
-  {
     "term": "comparable",
     "definition": "ניתן להשוואה"
   },
   {
     "term": "comparative",
     "definition": "יחסי, השוואתי"
-  },
-  {
-    "term": "compare",
-    "definition": "להשוות"
   },
   {
     "term": "comparison",
@@ -840,44 +525,8 @@
     "definition": "מתאים, הולם, תואם"
   },
   {
-    "term": "compete",
-    "definition": "להתחרות"
-  },
-  {
-    "term": "competition",
-    "definition": "תחרות"
-  },
-  {
-    "term": "competitive",
-    "definition": "תחרותי"
-  },
-  {
-    "term": "complain",
-    "definition": "להתלונן"
-  },
-  {
     "term": "complaisance",
     "definition": "אדיבות, נכונות לרצות אחרים"
-  },
-  {
-    "term": "completely",
-    "definition": "לחלוטין"
-  },
-  {
-    "term": "complex",
-    "definition": "תשלובת, מורכב"
-  },
-  {
-    "term": "complexity",
-    "definition": "מורכבות, סיבוך"
-  },
-  {
-    "term": "component",
-    "definition": "חלק, מרכיב, רכיב"
-  },
-  {
-    "term": "compose",
-    "definition": "להרכיב, להלחין"
   },
   {
     "term": "composite",
@@ -892,10 +541,6 @@
     "definition": "כפייה"
   },
   {
-    "term": "compulsive",
-    "definition": "כפייתי"
-  },
-  {
     "term": "compulsory",
     "definition": "חובה"
   },
@@ -904,20 +549,8 @@
     "definition": "לחשוב על..., להרות"
   },
   {
-    "term": "concentrate",
-    "definition": "להתרכז"
-  },
-  {
-    "term": "concern",
-    "definition": "דאגה, עניין, לדאוג, להתעניין"
-  },
-  {
     "term": "conclude",
     "definition": "לסיים, להסיק"
-  },
-  {
-    "term": "conclusion",
-    "definition": "סיום, מסקנה"
   },
   {
     "term": "conclusive",
@@ -932,36 +565,12 @@
     "definition": "להרשיע, לגנות"
   },
   {
-    "term": "conduct",
-    "definition": "התנהגות, לנהל, להוביל"
-  },
-  {
-    "term": "confess",
-    "definition": "להודות, להתוודות"
-  },
-  {
-    "term": "confidence",
-    "definition": "אמון, סוד"
-  },
-  {
-    "term": "confident",
-    "definition": "בטוח"
-  },
-  {
     "term": "confidential",
     "definition": "סודי, חשאי"
   },
   {
     "term": "confine",
     "definition": "להגביל"
-  },
-  {
-    "term": "build",
-    "definition": "לבנות"
-  },
-  {
-    "term": "building",
-    "definition": "בניין"
   },
   {
     "term": "birch",
@@ -972,40 +581,12 @@
     "definition": "עול"
   },
   {
-    "term": "burn",
-    "definition": "לשרוף"
-  },
-  {
-    "term": "bus stop",
-    "definition": "תחנת אוטובוס"
-  },
-  {
     "term": "bush",
     "definition": "שיח"
   },
   {
-    "term": "business",
-    "definition": "עסקים"
-  },
-  {
-    "term": "busy",
-    "definition": "עסוק"
-  },
-  {
-    "term": "butter",
-    "definition": "חמאה"
-  },
-  {
-    "term": "button",
-    "definition": "כפתור"
-  },
-  {
     "term": "buttress",
     "definition": "משען, תימוכין, לחזק, לתמוך"
-  },
-  {
-    "term": "buy",
-    "definition": "לקנות"
   },
   {
     "term": "by all means",
@@ -1020,14 +601,6 @@
     "definition": "לעקוף, מעקף"
   },
   {
-    "term": "calculate",
-    "definition": "לחשב, לתכנן"
-  },
-  {
-    "term": "calm",
-    "definition": "רוגע, להרגע"
-  },
-  {
     "term": "camouflage",
     "definition": "הסוואה"
   },
@@ -1040,44 +613,12 @@
     "definition": "בכנות"
   },
   {
-    "term": "candle",
-    "definition": "נר"
-  },
-  {
     "term": "capable",
     "definition": "מסוגל, מוכשר"
   },
   {
-    "term": "capital",
-    "definition": "עיר בירה, אות גדולה, הון, הון, הון"
-  },
-  {
     "term": "carcass",
     "definition": "פגר"
-  },
-  {
-    "term": "care",
-    "definition": "אכפתיות, דאגה, לדאוג"
-  },
-  {
-    "term": "carpet",
-    "definition": "שטיח"
-  },
-  {
-    "term": "casual",
-    "definition": "לבוש לא רשמי, מקרי"
-  },
-  {
-    "term": "catastrophe",
-    "definition": "אסון"
-  },
-  {
-    "term": "catastrophic",
-    "definition": "הרה אסון"
-  },
-  {
-    "term": "caused by",
-    "definition": "נגרם על ידי"
   },
   {
     "term": "cease",
@@ -1090,14 +631,6 @@
   {
     "term": "cede",
     "definition": "לוותר על"
-  },
-  {
-    "term": "century",
-    "definition": "מאה"
-  },
-  {
-    "term": "ceremony",
-    "definition": "טקס"
   },
   {
     "term": "certain",
@@ -1116,72 +649,20 @@
     "definition": "לאשר"
   },
   {
-    "term": "chain",
-    "definition": "שרשרת"
-  },
-  {
-    "term": "challenge",
-    "definition": "לקרוא תיגר, לאתגר, אתגר"
-  },
-  {
-    "term": "change",
-    "definition": "שינוי, לשנות, להחליף"
-  },
-  {
-    "term": "chaos",
-    "definition": "תוהו ובוהו"
-  },
-  {
-    "term": "chaotic",
-    "definition": "פרוע, של תוהו ובוהו"
-  },
-  {
-    "term": "character",
-    "definition": "אופי, אישיות, דמות"
-  },
-  {
     "term": "characteristic",
     "definition": "אופייני, תכונה בולטת"
-  },
-  {
-    "term": "charity",
-    "definition": "צדקה"
   },
   {
     "term": "chauffeur",
     "definition": "נהג"
   },
   {
-    "term": "cheap",
-    "definition": "זול"
-  },
-  {
-    "term": "cheese",
-    "definition": "גבינה"
-  },
-  {
     "term": "cherish",
     "definition": "לטפח, להוקיר"
   },
   {
-    "term": "chicken",
-    "definition": "עוף"
-  },
-  {
     "term": "chiefly",
     "definition": "בעיקר"
-  },
-  {
-    "term": "child",
-    "definition": "ילד/ה"
-  },
-  {
-    "term": "choose",
-    "definition": "לבחור"
-  },
-  {
-    "term": "cite",
-    "definition": "לצטט, לזמן למשפט"
   },
   {
     "term": "civilization",
@@ -1256,10 +737,6 @@
     "definition": "כתוצאה מכך"
   },
   {
-    "term": "consider",
-    "definition": "לשקול, לחשוב על"
-  },
-  {
     "term": "considerable",
     "definition": "ניכר, חשוב"
   },
@@ -1288,8 +765,8 @@
     "definition": "בולט"
   },
   {
-    "term": "constant",
-    "definition": "קבוע, תמידי"
+    "term": "constantly",
+    "definition": "לְעִתִּים קְרוֹבוֹת"
   },
   {
     "term": "consternation",
@@ -1336,14 +813,6 @@
     "definition": "מעורר מחלוקת"
   },
   {
-    "term": "continent",
-    "definition": "יבשת"
-  },
-  {
-    "term": "continue",
-    "definition": "להמשיך"
-  },
-  {
     "term": "contract",
     "definition": "חוזה, להתחייב בחוזה, לכווץ, לקצר"
   },
@@ -1358,10 +827,6 @@
   {
     "term": "contrary",
     "definition": "מנוגד, הפוך, ההיפך"
-  },
-  {
-    "term": "contrast",
-    "definition": "ניגוד, להנגיד, להשוות"
   },
   {
     "term": "contribute",
@@ -1384,16 +849,8 @@
     "definition": "החלמה"
   },
   {
-    "term": "conversation",
-    "definition": "שיחה"
-  },
-  {
     "term": "converse",
     "definition": "לשוחח, ההיפך, מנוגד"
-  },
-  {
-    "term": "conversion",
-    "definition": "המרה, חזרה בתשובה"
   },
   {
     "term": "convict",
@@ -1404,24 +861,12 @@
     "definition": "הרשעה, שכנוע עצמי"
   },
   {
-    "term": "convince",
-    "definition": "לשכנע"
-  },
-  {
     "term": "cooperate",
     "definition": "לשתף פעולה"
   },
   {
     "term": "coordination",
     "definition": "תיאום, קואורדינציה"
-  },
-  {
-    "term": "copy",
-    "definition": "להעתיק, עותק"
-  },
-  {
-    "term": "corner",
-    "definition": "פינה"
   },
   {
     "term": "corollary",
@@ -1444,24 +889,8 @@
     "definition": "שחיתות"
   },
   {
-    "term": "cost",
-    "definition": "לעלות , עלות"
-  },
-  {
-    "term": "cough",
-    "definition": "להשתעל"
-  },
-  {
-    "term": "country",
-    "definition": "מדינה"
-  },
-  {
     "term": "course",
-    "definition": "מסלול, דרך, לזרום"
-  },
-  {
-    "term": "creature",
-    "definition": "יצור"
+    "definition": "מסלול, דרך"
   },
   {
     "term": "creed",
@@ -1470,10 +899,6 @@
   {
     "term": "creep",
     "definition": "להתגנב, לזחול"
-  },
-  {
-    "term": "crisis",
-    "definition": "משבר"
   },
   {
     "term": "critic",
@@ -1493,43 +918,19 @@
   },
   {
     "term": "critique",
-    "definition": "מאמר ביקורת"
+    "definition": "לבקר, מאמר ביקורת"
   },
   {
     "term": "crop",
     "definition": "יבול"
   },
   {
-    "term": "crowd",
-    "definition": "קהל, המון, להתקהל"
-  },
-  {
-    "term": "crowded",
-    "definition": "צפוף"
-  },
-  {
-    "term": "cruise",
-    "definition": "הפלגה, שיט"
-  },
-  {
-    "term": "cucumber",
-    "definition": "מלפפון"
-  },
-  {
     "term": "culminate",
     "definition": "להגיע לשיא"
   },
   {
-    "term": "culture",
-    "definition": "תרבות"
-  },
-  {
     "term": "cumulative",
     "definition": "מצטבר"
-  },
-  {
-    "term": "cup",
-    "definition": "כוס, ספל"
   },
   {
     "term": "cupboard",
@@ -1544,10 +945,6 @@
     "definition": "להסתלסל, להתכווץ"
   },
   {
-    "term": "current",
-    "definition": "נוכחי, עכשווי, שוטף, זרם"
-  },
-  {
     "term": "currently",
     "definition": "כעת"
   },
@@ -1556,40 +953,8 @@
     "definition": "תוכנית לימודים"
   },
   {
-    "term": "cut",
-    "definition": "לחתוך"
-  },
-  {
-    "term": "cycle",
-    "definition": "מחזור, גלגל, אופן, לרכוב על אופניים"
-  },
-  {
-    "term": "daily",
-    "definition": "יומי"
-  },
-  {
-    "term": "damage",
-    "definition": "נזק, להזיק, לגרום נזק"
-  },
-  {
-    "term": "date",
-    "definition": "תאריך, פגישה, דייט"
-  },
-  {
-    "term": "daughter",
-    "definition": "בת"
-  },
-  {
     "term": "dawdle",
     "definition": "להתבטל"
-  },
-  {
-    "term": "dawn",
-    "definition": "שחר, זריחה, לזרוח, להיעשות ברור"
-  },
-  {
-    "term": "decade",
-    "definition": "עשור"
   },
   {
     "term": "deceit",
@@ -1624,20 +989,8 @@
     "definition": "מעשה"
   },
   {
-    "term": "deep",
-    "definition": "עמוק"
-  },
-  {
-    "term": "deer",
-    "definition": "צבי, צבאים"
-  },
-  {
     "term": "defamation",
     "definition": "השמצה, הכפשה"
-  },
-  {
-    "term": "defeat",
-    "definition": "תבטסה, להביס"
   },
   {
     "term": "defect",
@@ -1650,14 +1003,6 @@
   {
     "term": "defective",
     "definition": "פגום"
-  },
-  {
-    "term": "defend",
-    "definition": "להגן"
-  },
-  {
-    "term": "defense",
-    "definition": "הגנה"
   },
   {
     "term": "defiance",
@@ -1678,10 +1023,6 @@
   {
     "term": "definite",
     "definition": "מוחלט, ברור, מדוייק, מוגדר, מוגבל"
-  },
-  {
-    "term": "definitely",
-    "definition": "בהחלט"
   },
   {
     "term": "definitive",
@@ -1708,10 +1049,6 @@
     "definition": "שנעשה בכוונה תחילה"
   },
   {
-    "term": "deliver",
-    "definition": "למסור"
-  },
-  {
     "term": "demand",
     "definition": "לדרוש, דרישה"
   },
@@ -1732,10 +1069,6 @@
     "definition": "צפוף"
   },
   {
-    "term": "dentist",
-    "definition": "רופא שיניים"
-  },
-  {
     "term": "deny",
     "definition": "להכחיש, להימנע"
   },
@@ -1752,20 +1085,12 @@
     "definition": "לצייר, לתאר"
   },
   {
-    "term": "depressed",
-    "definition": "מדוכא"
-  },
-  {
     "term": "derivation",
     "definition": "הוכחה (לוגית), הפקה"
   },
   {
     "term": "derive",
     "definition": "להסיק (לוגית), להפיק"
-  },
-  {
-    "term": "desert",
-    "definition": "לנטוש, מדבר"
   },
   {
     "term": "desirable",
@@ -1776,40 +1101,16 @@
     "definition": "להשתוקק, תשוקה"
   },
   {
-    "term": "desk",
-    "definition": "שולחן עבודה"
-  },
-  {
-    "term": "despite",
-    "definition": "למרות"
-  },
-  {
     "term": "destination",
     "definition": "יעד"
-  },
-  {
-    "term": "destiny",
-    "definition": "גורל, ייעוד"
-  },
-  {
-    "term": "destroy",
-    "definition": "להרוס"
   },
   {
     "term": "destruction",
     "definition": "הרס"
   },
   {
-    "term": "detail",
-    "definition": "פרט"
-  },
-  {
     "term": "detain",
     "definition": "לעכב"
-  },
-  {
-    "term": "detect",
-    "definition": "לגלות, לאתר"
   },
   {
     "term": "detection",
@@ -1848,10 +1149,6 @@
     "definition": "לזרוע חורבן"
   },
   {
-    "term": "develop",
-    "definition": "לפתח, להתפתח"
-  },
-  {
     "term": "device",
     "definition": "כלי, מכשיר"
   },
@@ -1880,44 +1177,8 @@
     "definition": "תערובת"
   },
   {
-    "term": "dig",
-    "definition": "לחפור"
-  },
-  {
-    "term": "dilemma",
-    "definition": "דילמה, התלבטות בין שתי ברירות"
-  },
-  {
-    "term": "dimension",
-    "definition": "מידה, כמות, היקף, מימד"
-  },
-  {
-    "term": "diminish",
-    "definition": "להפחית"
-  },
-  {
-    "term": "dinner",
-    "definition": "ארוחת ערב"
-  },
-  {
-    "term": "dirty",
-    "definition": "מלוכלך"
-  },
-  {
-    "term": "disabled",
-    "definition": "בעל מוגבלות, נכה"
-  },
-  {
-    "term": "disadvantage",
-    "definition": "חיסרון"
-  },
-  {
     "term": "disappointment",
     "definition": "אכזבה"
-  },
-  {
-    "term": "disaster",
-    "definition": "אסון"
   },
   {
     "term": "disastrous",
@@ -1928,32 +1189,12 @@
     "definition": "תחום (במדע), דיסציפלינה, למשמע, להשליט משמעת, לחנך, משמעת"
   },
   {
-    "term": "discover",
-    "definition": "לגלות"
-  },
-  {
-    "term": "discovery",
-    "definition": "תגלית"
-  },
-  {
     "term": "discrepancy",
     "definition": "אי התאמה, העדר הסכמה"
   },
   {
     "term": "discriminate",
     "definition": "להבחין, להפלות"
-  },
-  {
-    "term": "discuss",
-    "definition": "לדון"
-  },
-  {
-    "term": "discussion",
-    "definition": "דיון"
-  },
-  {
-    "term": "disease",
-    "definition": "מחלה"
   },
   {
     "term": "disinfect",
@@ -1968,10 +1209,6 @@
     "definition": "לעקור ממקומו, להחליף את מקומו"
   },
   {
-    "term": "display",
-    "definition": "הצגה (לראווה)"
-  },
-  {
     "term": "dispose",
     "definition": "לארגן משהו, לזרוק, להיפטר מ..."
   },
@@ -1982,10 +1219,6 @@
   {
     "term": "disregard",
     "definition": "להתעלם"
-  },
-  {
-    "term": "distance",
-    "definition": "מרחק"
   },
   {
     "term": "distinct",
@@ -2008,24 +1241,12 @@
     "definition": "עיוות"
   },
   {
-    "term": "distract",
-    "definition": "להסיח דעת"
-  },
-  {
-    "term": "distraction",
-    "definition": "מסיח, הסחת דעת"
-  },
-  {
     "term": "distribute",
     "definition": "לחלק"
   },
   {
     "term": "distribution",
     "definition": "חלוקה, הפצה"
-  },
-  {
-    "term": "disturb",
-    "definition": "להפריע"
   },
   {
     "term": "divergence",
@@ -2044,10 +1265,6 @@
     "definition": "פעילות לשעות הפנאי, פעולת הסחה"
   },
   {
-    "term": "do",
-    "definition": "לעשות"
-  },
-  {
     "term": "docile",
     "definition": "קל לשליטה, צייתן"
   },
@@ -2064,24 +1281,12 @@
     "definition": "לשלוט, להיות דומיננטי"
   },
   {
-    "term": "donation",
-    "definition": "מתנה, תרומה"
-  },
-  {
-    "term": "donkey",
-    "definition": "חמור"
-  },
-  {
     "term": "doom",
     "definition": "לדון מישהו, לגזור על מישהו, אסון, אבדון, יום הדין"
   },
   {
     "term": "dote",
     "definition": "לחבב יתר על המידה, \"לחנוק באהבה\""
-  },
-  {
-    "term": "doubt",
-    "definition": "להטיל ספק, ספק"
   },
   {
     "term": "doubtful",
@@ -2092,10 +1297,6 @@
     "definition": "תריסר"
   },
   {
-    "term": "drawing",
-    "definition": "ציור"
-  },
-  {
     "term": "dread",
     "definition": "לפחד, לחשוש, פחד, אימה"
   },
@@ -2104,20 +1305,8 @@
     "definition": "להיסחף, לסחוף, סחף, מגמה"
   },
   {
-    "term": "drink",
-    "definition": "לשתות"
-  },
-  {
     "term": "drop",
     "definition": "להפיל, טיפה"
-  },
-  {
-    "term": "drug",
-    "definition": "סם"
-  },
-  {
-    "term": "dry",
-    "definition": "יבש"
   },
   {
     "term": "dubious",
@@ -2132,40 +1321,20 @@
     "definition": "בשל, בגלל"
   },
   {
-    "term": "duplicate",
-    "definition": "לשכפל"
-  },
-  {
     "term": "durable",
     "definition": "מחזיק מעמד, מאריך ימים"
-  },
-  {
-    "term": "duty",
-    "definition": "חובה"
   },
   {
     "term": "dwindle",
     "definition": "להתמעט, להיעשות קטן ויותר, להתדלדל"
   },
   {
-    "term": "dynamic",
-    "definition": "רב עוצמה, פעיל"
-  },
-  {
     "term": "eager",
     "definition": "להוט"
   },
   {
-    "term": "early",
-    "definition": "מוקדם"
-  },
-  {
     "term": "ease",
     "definition": "להקל"
-  },
-  {
-    "term": "east",
-    "definition": "מזרח"
   },
   {
     "term": "eavesdrop",
@@ -2176,28 +1345,8 @@
     "definition": "אוסף \"מפה ומשם\""
   },
   {
-    "term": "eclipse",
-    "definition": "ליקוי"
-  },
-  {
-    "term": "editor",
-    "definition": "עורך"
-  },
-  {
     "term": "effect",
     "definition": "השפעה"
-  },
-  {
-    "term": "efficiency",
-    "definition": "יעילות"
-  },
-  {
-    "term": "efficient",
-    "definition": "יעיל"
-  },
-  {
-    "term": "effort",
-    "definition": "מאמץ"
   },
   {
     "term": "elaborate",
@@ -2208,24 +1357,12 @@
     "definition": "זקן, מבוגר מ..."
   },
   {
-    "term": "elevator",
-    "definition": "מעלית"
-  },
-  {
     "term": "eliminate",
     "definition": "לפסול"
   },
   {
     "term": "elsewhere",
     "definition": "במקום אחר"
-  },
-  {
-    "term": "embarrass",
-    "definition": "להביך"
-  },
-  {
-    "term": "embarrassing",
-    "definition": "מביך"
   },
   {
     "term": "embassy",
@@ -2264,24 +1401,12 @@
     "definition": "דגול"
   },
   {
-    "term": "emotion",
-    "definition": "רגש"
-  },
-  {
     "term": "emphasize",
     "definition": "להדגיש"
   },
   {
     "term": "employ",
     "definition": "להעסיק, להשתמש"
-  },
-  {
-    "term": "employment",
-    "definition": "תעסוקה"
-  },
-  {
-    "term": "empty",
-    "definition": "ריק"
   },
   {
     "term": "enable",
@@ -2316,16 +1441,8 @@
     "definition": "העסקה, התחייבות, אירוסין"
   },
   {
-    "term": "engineer",
-    "definition": "מהנדס"
-  },
-  {
     "term": "enhance",
     "definition": "להגביר, להעצים"
-  },
-  {
-    "term": "enjoy",
-    "definition": "להנות"
   },
   {
     "term": "enlist",
@@ -2338,10 +1455,6 @@
   {
     "term": "ensure",
     "definition": "להבטיח שמשהו יקרה"
-  },
-  {
-    "term": "enter",
-    "definition": "להיכנס"
   },
   {
     "term": "enthusiasm",
@@ -2456,16 +1569,8 @@
     "definition": "ראיות"
   },
   {
-    "term": "evil",
-    "definition": "רע, מרושע"
-  },
-  {
     "term": "evolution",
     "definition": "התפתחות"
-  },
-  {
-    "term": "evolve",
-    "definition": "להתפתח"
   },
   {
     "term": "exaggeration",
@@ -2486,10 +1591,6 @@
   {
     "term": "excavation",
     "definition": "חפירה"
-  },
-  {
-    "term": "excellent",
-    "definition": "מצויין"
   },
   {
     "term": "except",
@@ -2532,10 +1633,6 @@
     "definition": "מסע, משלחת חקר"
   },
   {
-    "term": "expend",
-    "definition": "לבזבז"
-  },
-  {
     "term": "expenditure",
     "definition": "הוצאה, בזבוז, הוצאה"
   },
@@ -2552,10 +1649,6 @@
     "definition": "ניסוי"
   },
   {
-    "term": "explain",
-    "definition": "להסביר"
-  },
-  {
     "term": "explanation",
     "definition": "הסבר"
   },
@@ -2564,32 +1657,16 @@
     "definition": "מפורש, מפורט"
   },
   {
-    "term": "explode",
-    "definition": "להתפוצץ"
-  },
-  {
     "term": "exploit",
     "definition": "מבצע נועז, לנצל, להשתמש"
-  },
-  {
-    "term": "explore",
-    "definition": "לחקור"
   },
   {
     "term": "explosion",
     "definition": "פיצוץ"
   },
   {
-    "term": "export",
-    "definition": "לייצא"
-  },
-  {
     "term": "express",
     "definition": "מוצג בצורה בהירה, מהיר, לבטא"
-  },
-  {
-    "term": "expression",
-    "definition": "ביטוי"
   },
   {
     "term": "extend",
@@ -2616,24 +1693,12 @@
     "definition": "נכחד"
   },
   {
-    "term": "extreme",
-    "definition": "מידה קיצונית, קיצוני"
-  },
-  {
     "term": "extremely",
     "definition": "מאד"
   },
   {
     "term": "extremist",
     "definition": "דוגל בצעדים קיצוניים"
-  },
-  {
-    "term": "eyes shut",
-    "definition": "עיניים עצומות"
-  },
-  {
-    "term": "face",
-    "definition": "פנים"
   },
   {
     "term": "facilitate",
@@ -2648,14 +1713,6 @@
     "definition": "עובדה"
   },
   {
-    "term": "factor",
-    "definition": "גורם"
-  },
-  {
-    "term": "factory",
-    "definition": "מפעל"
-  },
-  {
     "term": "fallacious",
     "definition": "מטעה"
   },
@@ -2664,28 +1721,8 @@
     "definition": "רעיון מטעה"
   },
   {
-    "term": "false",
-    "definition": "כוזב, מזוייף"
-  },
-  {
     "term": "falsehood",
     "definition": "שקר"
-  },
-  {
-    "term": "fame",
-    "definition": "תהילה"
-  },
-  {
-    "term": "familiar",
-    "definition": "מכיר היטב, מקרוב, מוכר היטב, מקרוב"
-  },
-  {
-    "term": "family",
-    "definition": "משפחה"
-  },
-  {
-    "term": "famous",
-    "definition": "מפורסם"
   },
   {
     "term": "fascinate",
@@ -2696,16 +1733,8 @@
     "definition": "משיכה, קסם"
   },
   {
-    "term": "fashion",
-    "definition": "אופנה"
-  },
-  {
     "term": "fastidious",
     "definition": "דקדקן, אנין טעם, בררן"
-  },
-  {
-    "term": "fault",
-    "definition": "אשמה"
   },
   {
     "term": "fauna",
@@ -2724,10 +1753,6 @@
     "definition": "מאפיין, תכונה, להופיע"
   },
   {
-    "term": "feel",
-    "definition": "להרגיש"
-  },
-  {
     "term": "fetus",
     "definition": "עובר"
   },
@@ -2744,14 +1769,6 @@
     "definition": "צורה, איור, דמות, פיגורה, לדמיין, לדמיין"
   },
   {
-    "term": "final",
-    "definition": "סופי"
-  },
-  {
-    "term": "find",
-    "definition": "למצוא"
-  },
-  {
     "term": "firm",
     "definition": "מוצק, חברה, פירמה"
   },
@@ -2764,36 +1781,12 @@
     "definition": "בוטה, מזעזע"
   },
   {
-    "term": "flat",
-    "definition": "דירה, שטוח"
-  },
-  {
-    "term": "flex",
-    "definition": "למתוח שריר"
-  },
-  {
-    "term": "flexibility",
-    "definition": "גמישות"
-  },
-  {
-    "term": "flexible",
-    "definition": "גמיש"
-  },
-  {
-    "term": "flight",
-    "definition": "טיסה, בריחה, מנוסה"
-  },
-  {
     "term": "flood",
     "definition": "שיטפון, הצפה, להציף, לעלות על גדותיו"
   },
   {
     "term": "flourish",
     "definition": "לשגשג, לפרוח"
-  },
-  {
-    "term": "fly",
-    "definition": "לטוס"
   },
   {
     "term": "foe",
@@ -2808,10 +1801,6 @@
     "definition": "לדוגמא, למשל"
   },
   {
-    "term": "force",
-    "definition": "להכריח, כוח"
-  },
-  {
     "term": "foresee",
     "definition": "לחזות מראש"
   },
@@ -2822,10 +1811,6 @@
   {
     "term": "forge",
     "definition": "לעצב, ליצור, לחשל, לזייף"
-  },
-  {
-    "term": "forget",
-    "definition": "לשכוח"
   },
   {
     "term": "formation",
@@ -2872,24 +1857,12 @@
     "definition": "לשבור, שבר"
   },
   {
-    "term": "freedom",
-    "definition": "חופש"
-  },
-  {
     "term": "frequency",
     "definition": "שכיחות, תדירות"
   },
   {
-    "term": "frequent",
-    "definition": "לבקר (לעיתים קרובות), תכוף, תדיר"
-  },
-  {
     "term": "frequently",
     "definition": "לעיתים תכופות"
-  },
-  {
-    "term": "fresh",
-    "definition": "טרי"
   },
   {
     "term": "fringe",
@@ -2898,10 +1871,6 @@
   {
     "term": "frivolous",
     "definition": "קל דעת, טפשי"
-  },
-  {
-    "term": "fruit",
-    "definition": "פרי, פירות"
   },
   {
     "term": "fruitful",
@@ -2920,18 +1889,6 @@
     "definition": "פליט"
   },
   {
-    "term": "fulfill",
-    "definition": "להשלים, להשיג מטרה"
-  },
-  {
-    "term": "full",
-    "definition": "מלא"
-  },
-  {
-    "term": "function",
-    "definition": "תכלית, תפקיד, פונקציה (במתמטיקה), לתפקד"
-  },
-  {
     "term": "fund",
     "definition": "קרן (כספית או של משאבים אחרים), לממן"
   },
@@ -2948,24 +1905,8 @@
     "definition": "לרהט"
   },
   {
-    "term": "furniture",
-    "definition": "ריהוט, רהיטים"
-  },
-  {
     "term": "futile",
     "definition": "עקר, חסר ערך"
-  },
-  {
-    "term": "gain",
-    "definition": "להרוויח, רווח"
-  },
-  {
-    "term": "gap",
-    "definition": "פער, רווח"
-  },
-  {
-    "term": "garbage",
-    "definition": "זבל"
   },
   {
     "term": "garment",
@@ -2974,10 +1915,6 @@
   {
     "term": "gather",
     "definition": "להיאסף, לאסוף"
-  },
-  {
-    "term": "general",
-    "definition": "כללי"
   },
   {
     "term": "generate",
@@ -3008,48 +1945,16 @@
     "definition": "להתחיל, לגרום ל..."
   },
   {
-    "term": "glass",
-    "definition": "זכוכית, כוס"
-  },
-  {
-    "term": "glasses",
-    "definition": "משקפיים"
-  },
-  {
     "term": "glimpse",
     "definition": "מבט חטוף, הצצה"
-  },
-  {
-    "term": "glory",
-    "definition": "תהילה"
-  },
-  {
-    "term": "go",
-    "definition": "ללכת"
-  },
-  {
-    "term": "goal",
-    "definition": "שאיפה, מטרה, יעד"
   },
   {
     "term": "goods",
     "definition": "סחורה"
   },
   {
-    "term": "gossip",
-    "definition": "לרכל, רכילות"
-  },
-  {
     "term": "govern",
     "definition": "לשלוט"
-  },
-  {
-    "term": "government",
-    "definition": "ממשלה"
-  },
-  {
-    "term": "grace",
-    "definition": "חן, קסם"
   },
   {
     "term": "gracious",
@@ -3062,14 +1967,6 @@
   {
     "term": "gratitude",
     "definition": "הכרת תודה"
-  },
-  {
-    "term": "gray",
-    "definition": "אפור"
-  },
-  {
-    "term": "grief",
-    "definition": "צער, יגון"
   },
   {
     "term": "grim",
@@ -3086,18 +1983,6 @@
   {
     "term": "ground",
     "definition": "קרקע, לבסס, לקרקע"
-  },
-  {
-    "term": "guess",
-    "definition": "לנחש, ניחוש"
-  },
-  {
-    "term": "guilty",
-    "definition": "אשם"
-  },
-  {
-    "term": "habit",
-    "definition": "הרגל"
   },
   {
     "term": "handicapped",
@@ -3124,36 +2009,16 @@
     "definition": "חיפזון"
   },
   {
-    "term": "have",
-    "definition": "יש לי"
-  },
-  {
-    "term": "health",
-    "definition": "בריאות"
-  },
-  {
     "term": "hearsay",
     "definition": "שמועה"
-  },
-  {
-    "term": "heart",
-    "definition": "לב"
   },
   {
     "term": "heartfelt",
     "definition": "כן, רציני, יוצא מהלב"
   },
   {
-    "term": "heartless",
-    "definition": "אכזר, קשה לב"
-  },
-  {
     "term": "heartthrob",
     "definition": "פעימת לב"
-  },
-  {
-    "term": "heavy",
-    "definition": "כבד"
   },
   {
     "term": "hereditary",
@@ -3176,24 +2041,8 @@
     "definition": "מורשת"
   },
   {
-    "term": "hero",
-    "definition": "גיבור"
-  },
-  {
-    "term": "hide",
-    "definition": "להתחבא"
-  },
-  {
-    "term": "hit",
-    "definition": "להכות"
-  },
-  {
     "term": "hitherto",
     "definition": "עד כה, נכון לעכשיו"
-  },
-  {
-    "term": "hold",
-    "definition": "להחזיק"
   },
   {
     "term": "horrible",
@@ -3204,48 +2053,20 @@
     "definition": "להפחיד"
   },
   {
-    "term": "horror",
-    "definition": "אימה"
-  },
-  {
     "term": "hospitable",
     "definition": "מסביר פנים"
-  },
-  {
-    "term": "hospital",
-    "definition": "בית חולים"
   },
   {
     "term": "hostile",
     "definition": "עוין"
   },
   {
-    "term": "hour",
-    "definition": "שעה"
-  },
-  {
     "term": "however",
     "definition": "אולם, אבל, יחד עם זאת"
   },
   {
-    "term": "huge",
-    "definition": "ענק, עצום"
-  },
-  {
-    "term": "human",
-    "definition": "אנושי"
-  },
-  {
-    "term": "hungry",
-    "definition": "רעב"
-  },
-  {
     "term": "hunt",
     "definition": "לצוד"
-  },
-  {
-    "term": "husband",
-    "definition": "בעל"
   },
   {
     "term": "hybrid",
@@ -3258,10 +2079,6 @@
   {
     "term": "hypothesis",
     "definition": "השערה"
-  },
-  {
-    "term": "ice",
-    "definition": "קרח"
   },
   {
     "term": "identify",
@@ -3280,18 +2097,6 @@
     "definition": "להצית"
   },
   {
-    "term": "ignore",
-    "definition": "להתעלם"
-  },
-  {
-    "term": "illness",
-    "definition": "מחלה"
-  },
-  {
-    "term": "illusion",
-    "definition": "אשליה"
-  },
-  {
     "term": "illusive",
     "definition": "מטעה, מתעתע"
   },
@@ -3300,20 +2105,8 @@
     "definition": "מטעה, חמקמק"
   },
   {
-    "term": "image",
-    "definition": "דמות, דימוי, דבר מה דומה"
-  },
-  {
-    "term": "imagine",
-    "definition": "להעלות על הדעת, לדמיין"
-  },
-  {
     "term": "immediate",
     "definition": "מיידי"
-  },
-  {
-    "term": "immediately",
-    "definition": "מיד"
   },
   {
     "term": "immense",
@@ -3326,10 +2119,6 @@
   {
     "term": "immune",
     "definition": "מחוסן"
-  },
-  {
-    "term": "impact",
-    "definition": "כוח הדף, השפעה, רושם"
   },
   {
     "term": "impartial",
@@ -3360,16 +2149,8 @@
     "definition": "לרמז"
   },
   {
-    "term": "import",
-    "definition": "לייבא"
-  },
-  {
     "term": "impose",
     "definition": "להטיל"
-  },
-  {
-    "term": "impossible",
-    "definition": "בלתי אפשרי"
   },
   {
     "term": "impregnable",
@@ -3378,10 +2159,6 @@
   {
     "term": "imprison",
     "definition": "לכלוא"
-  },
-  {
-    "term": "improve",
-    "definition": "לשפר"
   },
   {
     "term": "impulse",
@@ -3416,20 +2193,12 @@
     "definition": "נוטה"
   },
   {
-    "term": "increase",
-    "definition": "גידול, לגדול"
-  },
-  {
     "term": "indicate",
     "definition": "לציין"
   },
   {
     "term": "indifferent",
     "definition": "חסר עניין, אדיש"
-  },
-  {
-    "term": "individual",
-    "definition": "יחיד, פרט"
   },
   {
     "term": "induce",
@@ -3448,32 +2217,12 @@
     "definition": "נחות"
   },
   {
-    "term": "influence",
-    "definition": "השפעה"
-  },
-  {
-    "term": "inform",
-    "definition": "להודיע"
-  },
-  {
-    "term": "information",
-    "definition": "מידע"
-  },
-  {
     "term": "ingenious",
     "definition": "גאוני"
   },
   {
-    "term": "ingredient",
-    "definition": "מרכיב, רכיב"
-  },
-  {
     "term": "inherent",
     "definition": "שטבוע במהות הדבר"
-  },
-  {
-    "term": "injury",
-    "definition": "פציעה"
   },
   {
     "term": "insect",
@@ -3482,10 +2231,6 @@
   {
     "term": "insight",
     "definition": "תובנה, הבנה עמוקה"
-  },
-  {
-    "term": "insist",
-    "definition": "להתעקש"
   },
   {
     "term": "insistence",
@@ -3502,18 +2247,6 @@
   {
     "term": "inspector",
     "definition": "מפקח"
-  },
-  {
-    "term": "inspiration",
-    "definition": "השראה"
-  },
-  {
-    "term": "inspire",
-    "definition": "להעניק השראה"
-  },
-  {
-    "term": "instant",
-    "definition": "רגע, מיידי"
   },
   {
     "term": "instantaneous",
@@ -3556,20 +2289,8 @@
     "definition": "עצמה ניכרת, העמקה"
   },
   {
-    "term": "intensive",
-    "definition": "מעמיק, רב עצמה"
-  },
-  {
     "term": "intent",
     "definition": "מתעקש, רוצה מאד, כוונה"
-  },
-  {
-    "term": "interest",
-    "definition": "עניין, ריבית, להתעניין"
-  },
-  {
-    "term": "interesting",
-    "definition": "מעניין"
   },
   {
     "term": "interim",
@@ -3578,10 +2299,6 @@
   {
     "term": "intermission",
     "definition": "הפסקה"
-  },
-  {
-    "term": "internal",
-    "definition": "פנימי"
   },
   {
     "term": "interpret",
@@ -3600,64 +2317,8 @@
     "definition": "מרווח"
   },
   {
-    "term": "interview",
-    "definition": "ראיון, לראיין"
-  },
-  {
-    "term": "introduce",
-    "definition": "להציג, לערוך היכרות"
-  },
-  {
     "term": "invariable",
     "definition": "קבוע, שאינו משתנה"
-  },
-  {
-    "term": "invent",
-    "definition": "להמציא"
-  },
-  {
-    "term": "invention",
-    "definition": "המצאה"
-  },
-  {
-    "term": "invest",
-    "definition": "להשקיע"
-  },
-  {
-    "term": "investigate",
-    "definition": "לחקור"
-  },
-  {
-    "term": "investment",
-    "definition": "השקעה"
-  },
-  {
-    "term": "invite",
-    "definition": "להזמין"
-  },
-  {
-    "term": "involve",
-    "definition": "לערב"
-  },
-  {
-    "term": "involved",
-    "definition": "מעורב"
-  },
-  {
-    "term": "island",
-    "definition": "אי"
-  },
-  {
-    "term": "isolate",
-    "definition": "לבודד"
-  },
-  {
-    "term": "issue",
-    "definition": "להנפיק, להוציא לאור, לצאת, סוגייה, נושא, גליון, מהדורה"
-  },
-  {
-    "term": "item",
-    "definition": "פריט"
   },
   {
     "term": "jest",
@@ -3668,36 +2329,12 @@
     "definition": "ליצן חצר"
   },
   {
-    "term": "join",
-    "definition": "להצטרף, לצרף דבר לדבר"
-  },
-  {
-    "term": "joke",
-    "definition": "בדיחה"
-  },
-  {
-    "term": "journalism",
-    "definition": "עיתונות"
-  },
-  {
-    "term": "journey",
-    "definition": "מסע"
-  },
-  {
-    "term": "junction",
-    "definition": "צומת"
-  },
-  {
     "term": "juncture",
     "definition": "הצטלבות (בזמן)"
   },
   {
     "term": "jury",
     "definition": "חבר מושבעים"
-  },
-  {
-    "term": "justify",
-    "definition": "להצדיק"
   },
   {
     "term": "juvenile",
@@ -3716,28 +2353,8 @@
     "definition": "גלעין"
   },
   {
-    "term": "kid",
-    "definition": "ילד/ה"
-  },
-  {
-    "term": "kind",
-    "definition": "נחמד, חביב"
-  },
-  {
-    "term": "kind of",
-    "definition": "סוג של"
-  },
-  {
     "term": "kindle",
     "definition": "להבעיר"
-  },
-  {
-    "term": "kingdom",
-    "definition": "ממלכה"
-  },
-  {
-    "term": "kitchen",
-    "definition": "מטבח"
   },
   {
     "term": "knight",
@@ -3746,10 +2363,6 @@
   {
     "term": "knot",
     "definition": "קשר"
-  },
-  {
-    "term": "knowledge",
-    "definition": "ידע"
   },
   {
     "term": "lack",
@@ -3764,26 +2377,6 @@
     "definition": "חולשה, אפיסת כוחות"
   },
   {
-    "term": "last",
-    "definition": "אחרון, להאריך ימים"
-  },
-  {
-    "term": "lazy",
-    "definition": "עצלן"
-  },
-  {
-    "term": "lead",
-    "definition": "להוביל"
-  },
-  {
-    "term": "learn",
-    "definition": "ללמוד"
-  },
-  {
-    "term": "leave",
-    "definition": "לעזוב"
-  },
-  {
     "term": "lecture",
     "definition": "להרצות, הרצאה"
   },
@@ -3796,20 +2389,8 @@
     "definition": "חקיקה"
   },
   {
-    "term": "legitimate",
-    "definition": "לגיטימי, בעל תוקף חוקי או חברתי"
-  },
-  {
     "term": "leisure",
     "definition": "פנאי"
-  },
-  {
-    "term": "leopard",
-    "definition": "פנתר, נמר"
-  },
-  {
-    "term": "let",
-    "definition": "להתיר, לשכור, להשכיר"
   },
   {
     "term": "liable",
@@ -3820,24 +2401,12 @@
     "definition": "חירות"
   },
   {
-    "term": "license",
-    "definition": "רישיון"
-  },
-  {
-    "term": "lie",
-    "definition": "שקר, לשקר, לשכב"
-  },
-  {
     "term": "lifelong",
     "definition": "לכל החיים, לכל משך החיים"
   },
   {
     "term": "likely",
     "definition": "מתקבל על הדעת"
-  },
-  {
-    "term": "limit",
-    "definition": "להגביל, גבול, קצה"
   },
   {
     "term": "limitation",
@@ -3848,24 +2417,12 @@
     "definition": "להשתהות"
   },
   {
-    "term": "link",
-    "definition": "קשר, חיבור, זיקה, לקשר"
-  },
-  {
-    "term": "literal",
-    "definition": "מילולי"
-  },
-  {
     "term": "living room",
     "definition": "סלון"
   },
   {
     "term": "loath",
     "definition": "לתעב"
-  },
-  {
-    "term": "local",
-    "definition": "מקומי"
   },
   {
     "term": "locate",
@@ -3880,36 +2437,12 @@
     "definition": "צלול בדעתו"
   },
   {
-    "term": "luck",
-    "definition": "מזל"
-  },
-  {
     "term": "luminous",
     "definition": "זוהר, בוהק, מאיר"
   },
   {
-    "term": "lunch",
-    "definition": "ארוחת צהריים"
-  },
-  {
-    "term": "luxury",
-    "definition": "מותרות"
-  },
-  {
-    "term": "machine",
-    "definition": "מכונה"
-  },
-  {
     "term": "magnitude",
     "definition": "חשיבות, משמעות, גודל או שיעור מסויים"
-  },
-  {
-    "term": "main",
-    "definition": "עיקרי, מרכזי, החשוב ביותר"
-  },
-  {
-    "term": "mainly",
-    "definition": "בעיקר"
   },
   {
     "term": "maintain",
@@ -3918,14 +2451,6 @@
   {
     "term": "maintenance",
     "definition": "תחזוקה"
-  },
-  {
-    "term": "major",
-    "definition": "החשוב יותר, העיקרי, בצבא: מקביל לרס\"ן בצה\"ל"
-  },
-  {
-    "term": "make",
-    "definition": "לעשות, להכין"
   },
   {
     "term": "malice",
@@ -3940,32 +2465,12 @@
     "definition": "יונק"
   },
   {
-    "term": "man",
-    "definition": "גבר, לאייש"
-  },
-  {
-    "term": "manage",
-    "definition": "להסתדר, לנהל עניינים"
-  },
-  {
     "term": "mandatory",
     "definition": "חובה"
   },
   {
-    "term": "manipulate",
-    "definition": "להפעיל"
-  },
-  {
     "term": "manner",
     "definition": "אופן, הדרך שבא אדם מתנהג, נימוסים (ברבים)"
-  },
-  {
-    "term": "manual",
-    "definition": "שנעשה ביד, ידני"
-  },
-  {
-    "term": "manually",
-    "definition": "ביד, ידנית"
   },
   {
     "term": "mark",
@@ -3992,40 +2497,12 @@
     "definition": "דרכים, שיטות, אמצעים, אמצעים כספיים"
   },
   {
-    "term": "media",
-    "definition": "אמצעי תקשורת המוניים (רדיו, טלויזיה, עיתונות)"
-  },
-  {
-    "term": "medical",
-    "definition": "רפואי"
-  },
-  {
-    "term": "medicine",
-    "definition": "רפואה (המקצוע), תרופה"
-  },
-  {
-    "term": "meet",
-    "definition": "לפגוש"
-  },
-  {
     "term": "member",
     "definition": "חבר (במועדון, בקבוצה), איבר"
   },
   {
-    "term": "menu",
-    "definition": "תפריט"
-  },
-  {
-    "term": "mercy",
-    "definition": "רחמים"
-  },
-  {
     "term": "mere",
     "definition": "רק, בלבד, בסה\"כ"
-  },
-  {
-    "term": "messenger",
-    "definition": "שליח"
   },
   {
     "term": "method",
@@ -4040,36 +2517,8 @@
     "definition": "עדין, רך, לא חזק"
   },
   {
-    "term": "mind",
-    "definition": "שכל, תודעה, להתנגד"
-  },
-  {
-    "term": "minimize",
-    "definition": "להקטין למינימום"
-  },
-  {
-    "term": "minute",
-    "definition": "דקה"
-  },
-  {
-    "term": "misery",
-    "definition": "אומללות, סבל"
-  },
-  {
     "term": "mislead",
     "definition": "להשלות, להוליך שולל"
-  },
-  {
-    "term": "mistake",
-    "definition": "טעות"
-  },
-  {
-    "term": "mixture",
-    "definition": "תערובת"
-  },
-  {
-    "term": "mode",
-    "definition": "אופן, דרך"
   },
   {
     "term": "moderate",
@@ -4088,40 +2537,8 @@
     "definition": "לתקן, לשנות"
   },
   {
-    "term": "moment",
-    "definition": "רגע"
-  },
-  {
     "term": "momentary",
     "definition": "רגעי, בכל רגע ורגע"
-  },
-  {
-    "term": "monkey",
-    "definition": "קוף"
-  },
-  {
-    "term": "mood",
-    "definition": "מצב רוח"
-  },
-  {
-    "term": "motion",
-    "definition": "תנועה"
-  },
-  {
-    "term": "municipal",
-    "definition": "עירוני, של רשות מקומית"
-  },
-  {
-    "term": "muscle",
-    "definition": "שריר"
-  },
-  {
-    "term": "mutual",
-    "definition": "הדדי, משותף"
-  },
-  {
-    "term": "myth",
-    "definition": "סיפור אגדה עתיק, מיתוס, אגדה"
   },
   {
     "term": "narrow",
@@ -4138,10 +2555,6 @@
   {
     "term": "necessity",
     "definition": "משהו חיוני, צורך"
-  },
-  {
-    "term": "needle",
-    "definition": "מחט"
   },
   {
     "term": "neglect",
@@ -4184,20 +2597,12 @@
     "definition": "נומינלי, קיים בתיאוריה, קיים בשמו בלבד, בעל חשיבות מזערית"
   },
   {
-    "term": "north",
-    "definition": "צפון"
-  },
-  {
     "term": "notable",
     "definition": "ראוי לציון, נכבד, מצויין"
   },
   {
     "term": "notably",
     "definition": "באופן בולט במיוחד"
-  },
-  {
-    "term": "notice",
-    "definition": "התראה, הודעה, לשים לב, תשומת לב, מודעה"
   },
   {
     "term": "noticeable",
@@ -4212,28 +2617,8 @@
     "definition": "דעה, רעיון"
   },
   {
-    "term": "novel",
-    "definition": "רומן, יצירה ספרותית ארוכה, חדש"
-  },
-  {
     "term": "nowadays",
     "definition": "בימינו"
-  },
-  {
-    "term": "nuclear",
-    "definition": "גרעיני"
-  },
-  {
-    "term": "nun",
-    "definition": "נזירה"
-  },
-  {
-    "term": "nurse",
-    "definition": "אח (בבי\"ח), לטפל, לסעוד מישהו חולה"
-  },
-  {
-    "term": "nutrition",
-    "definition": "תזונה"
   },
   {
     "term": "obedience",
@@ -4242,10 +2627,6 @@
   {
     "term": "obey",
     "definition": "לציית"
-  },
-  {
-    "term": "object",
-    "definition": "חפץ, מטרה, מושא (בתחביר), מושא (בתחביר)"
   },
   {
     "term": "objection",
@@ -4257,31 +2638,11 @@
   },
   {
     "term": "obscure",
-    "definition": "מוזר, ידוע למעטים, מעורפל, לא ברור, לערפל, לטשטש"
-  },
-  {
-    "term": "obsessed",
-    "definition": "אחוז דיבוק"
-  },
-  {
-    "term": "obsession",
-    "definition": "קיבעון, אובססיה"
+    "definition": " מעורפל, לא ברור, לטשטש"
   },
   {
     "term": "obtain",
     "definition": "להשיג"
-  },
-  {
-    "term": "obvious",
-    "definition": "ברור"
-  },
-  {
-    "term": "obviously",
-    "definition": "ברור מאליו, כמובן"
-  },
-  {
-    "term": "occasion",
-    "definition": "מאורע, אירוע"
   },
   {
     "term": "occupation",
@@ -4300,22 +2661,6 @@
     "definition": "התרחשות"
   },
   {
-    "term": "odor",
-    "definition": "ריח, ניחוח"
-  },
-  {
-    "term": "offer",
-    "definition": "הצעה, להציע"
-  },
-  {
-    "term": "often",
-    "definition": "לעיתים קרובות"
-  },
-  {
-    "term": "oil",
-    "definition": "נפט, שמן"
-  },
-  {
     "term": "on account of",
     "definition": "בגלל"
   },
@@ -4326,14 +2671,6 @@
   {
     "term": "opportune",
     "definition": "משהו שקרה בעיתוי מוצלח"
-  },
-  {
-    "term": "opportunism",
-    "definition": "ניצול כל הזדמנות לרווח"
-  },
-  {
-    "term": "opportunity",
-    "definition": "הזדמנות"
   },
   {
     "term": "oppose",
@@ -4350,18 +2687,6 @@
   {
     "term": "oppression",
     "definition": "דיכוי"
-  },
-  {
-    "term": "orange",
-    "definition": "תפוז, כתום"
-  },
-  {
-    "term": "order",
-    "definition": "סדר"
-  },
-  {
-    "term": "origin",
-    "definition": "מקור, מוצא"
   },
   {
     "term": "oscillate",
@@ -4512,40 +2837,16 @@
     "definition": "ביטוי (שמשתמשים בו כיחידה אחת)"
   },
   {
-    "term": "pink",
-    "definition": "ורוד"
-  },
-  {
     "term": "pioneer",
     "definition": "חלוץ"
-  },
-  {
-    "term": "place",
-    "definition": "מקום"
-  },
-  {
-    "term": "plan",
-    "definition": "תוכנית"
   },
   {
     "term": "plane",
     "definition": "מישור, מטוס"
   },
   {
-    "term": "plant",
-    "definition": "צמח, לשתול"
-  },
-  {
-    "term": "pocket",
-    "definition": "כיס"
-  },
-  {
     "term": "portion",
     "definition": "חלק משלם, מנה"
-  },
-  {
-    "term": "position",
-    "definition": "תנוחה"
   },
   {
     "term": "possess",
@@ -4556,20 +2857,12 @@
     "definition": "נכס, חפץ השייך למישהו"
   },
   {
-    "term": "possible",
-    "definition": "אפשרי"
-  },
-  {
     "term": "postpone",
     "definition": "לדחות"
   },
   {
     "term": "posture",
     "definition": "יציבה, תנוחה"
-  },
-  {
-    "term": "potential",
-    "definition": "פוטנציאל, היכולת הטמונה באדם, בפוטנציה, בעל סיכוי להתפתח"
   },
   {
     "term": "praise",
@@ -4588,28 +2881,12 @@
     "definition": "כאשר אירוע מקדים אירוע אחר"
   },
   {
-    "term": "precise",
-    "definition": "מדוייק, מוגדר"
-  },
-  {
     "term": "preclude",
     "definition": "למנוע מאירוע להתקיים"
   },
   {
-    "term": "predator",
-    "definition": "טורף"
-  },
-  {
-    "term": "predict",
-    "definition": "לחזות"
-  },
-  {
     "term": "prediction",
     "definition": "תחזית"
-  },
-  {
-    "term": "prejudice",
-    "definition": "דעה קדומה"
   },
   {
     "term": "prejudicial",
@@ -4620,16 +2897,8 @@
     "definition": "מרשם"
   },
   {
-    "term": "prevent",
-    "definition": "למנוע"
-  },
-  {
     "term": "preventive",
     "definition": "מניעתי"
-  },
-  {
-    "term": "previous",
-    "definition": "הקודם"
   },
   {
     "term": "previously",
@@ -4638,10 +2907,6 @@
   {
     "term": "prey",
     "definition": "טרף"
-  },
-  {
-    "term": "price",
-    "definition": "מחיר"
   },
   {
     "term": "priceless",
@@ -4660,24 +2925,8 @@
     "definition": "חשוב, עיקרי, מנהל בי\"ס"
   },
   {
-    "term": "probably",
-    "definition": "כנראה"
-  },
-  {
-    "term": "process",
-    "definition": "תהליך"
-  },
-  {
     "term": "procure",
     "definition": "להשיג משהו שקשה להשגה"
-  },
-  {
-    "term": "produce",
-    "definition": "לייצר, מוצר, תוצר"
-  },
-  {
-    "term": "production",
-    "definition": "ייצור"
   },
   {
     "term": "profit",
@@ -4700,10 +2949,6 @@
     "definition": "לגרום למשהו שיקרה, מהיר, מיידי"
   },
   {
-    "term": "propaganda",
-    "definition": "תעמולה"
-  },
-  {
     "term": "propagate",
     "definition": "להתרבות"
   },
@@ -4720,10 +2965,6 @@
     "definition": "הצעה"
   },
   {
-    "term": "propose",
-    "definition": "להציע (נישואין למשל)"
-  },
-  {
     "term": "prospect",
     "definition": "סיכויים, אפשרויות"
   },
@@ -4736,28 +2977,12 @@
     "definition": "למחות, מחאה"
   },
   {
-    "term": "prove",
-    "definition": "להוכיח"
-  },
-  {
-    "term": "provide",
-    "definition": "לספק"
-  },
-  {
     "term": "provisional",
     "definition": "זמני, ארעי"
   },
   {
     "term": "provisions",
     "definition": "אספקה"
-  },
-  {
-    "term": "pure",
-    "definition": "טהור"
-  },
-  {
-    "term": "purple",
-    "definition": "סגול"
   },
   {
     "term": "purpose",
@@ -4772,14 +2997,6 @@
     "definition": "מרדף, רדיפה"
   },
   {
-    "term": "put",
-    "definition": "לשים"
-  },
-  {
-    "term": "puzzle",
-    "definition": "תצרף, חידה, פאזל"
-  },
-  {
     "term": "puzzled",
     "definition": "מבולבל"
   },
@@ -4792,20 +3009,12 @@
     "definition": "להיות בעל כישורים מתאימים"
   },
   {
-    "term": "quality",
-    "definition": "איכות, תכונה"
-  },
-  {
     "term": "quantity",
     "definition": "כמות"
   },
   {
     "term": "quarrel",
     "definition": "ריב, לריב"
-  },
-  {
-    "term": "quest",
-    "definition": "מסע בחיפוש אחר דבר מה"
   },
   {
     "term": "quit",
@@ -4820,10 +3029,6 @@
     "definition": "תחרות, מירוץ, גזע"
   },
   {
-    "term": "radical",
-    "definition": "קיצוני"
-  },
-  {
     "term": "radicalism",
     "definition": "קיצוניות"
   },
@@ -4836,10 +3041,6 @@
     "definition": "טווח, להתפרס, להשתרע"
   },
   {
-    "term": "rank",
-    "definition": "דרגה"
-  },
-  {
     "term": "rarely",
     "definition": "לעיתים רחוקות"
   },
@@ -4850,18 +3051,6 @@
   {
     "term": "rather",
     "definition": "מוטב, עדיף, להעדיף, למדי"
-  },
-  {
-    "term": "react",
-    "definition": "להגיב"
-  },
-  {
-    "term": "reaction",
-    "definition": "תגובה"
-  },
-  {
-    "term": "read",
-    "definition": "לקרוא"
   },
   {
     "term": "realize",
@@ -4912,10 +3101,6 @@
     "definition": "מיותר, חוזר על עצמו"
   },
   {
-    "term": "refer",
-    "definition": "להתייחס ל..., להפנות"
-  },
-  {
     "term": "refrain",
     "definition": "להימנע מ..."
   },
@@ -4940,10 +3125,6 @@
     "definition": "קשר, קרבה משפחתית"
   },
   {
-    "term": "relationship",
-    "definition": "מערכת יחסים"
-  },
-  {
     "term": "relative",
     "definition": "יחסי, קרוב משפחה"
   },
@@ -4952,20 +3133,12 @@
     "definition": "יחסית"
   },
   {
-    "term": "release",
-    "definition": "לשחרר"
-  },
-  {
     "term": "relief",
     "definition": "הקלה, רווחה, מחליף"
   },
   {
     "term": "relieve",
     "definition": "לגרום הקלה, להקל"
-  },
-  {
-    "term": "religious",
-    "definition": "דתי"
   },
   {
     "term": "reluctant",
@@ -4990,14 +3163,6 @@
   {
     "term": "remarkable",
     "definition": "ראוי לציון"
-  },
-  {
-    "term": "remind",
-    "definition": "להזכיר"
-  },
-  {
-    "term": "reminder",
-    "definition": "תזכורת"
   },
   {
     "term": "remnant",
@@ -5068,10 +3233,6 @@
     "definition": "צורך, דרישה"
   },
   {
-    "term": "rescue",
-    "definition": "להציל"
-  },
-  {
     "term": "residue",
     "definition": "שייר"
   },
@@ -5082,10 +3243,6 @@
   {
     "term": "resolve",
     "definition": "להחליט"
-  },
-  {
-    "term": "respect",
-    "definition": "כבוד"
   },
   {
     "term": "respectable",
@@ -5100,24 +3257,8 @@
     "definition": "להגיב"
   },
   {
-    "term": "response",
-    "definition": "תגובה, תשובה"
-  },
-  {
-    "term": "responsibility",
-    "definition": "אחריות"
-  },
-  {
-    "term": "responsible",
-    "definition": "אחראי"
-  },
-  {
     "term": "restatement",
     "definition": "ניסוח מחדש"
-  },
-  {
-    "term": "restaurant",
-    "definition": "מסעדה"
   },
   {
     "term": "restore",
@@ -5140,24 +3281,16 @@
     "definition": "הגבלה"
   },
   {
-    "term": "result",
-    "definition": "תוצאה"
-  },
-  {
-    "term": "return",
-    "definition": "לחזור"
-  },
-  {
-    "term": "reveal",
-    "definition": "לגלות משהו שהיה חסוי"
-  },
-  {
     "term": "revert",
     "definition": "לחזור לשיטה הקודמת"
   },
   {
     "term": "reward",
     "definition": "לגמול, פרס, תגמול"
+  },
+  {
+    "term": "rewind",
+    "definition": "החזיר לאחור"
   },
   {
     "term": "ridicule",
@@ -5732,16 +3865,8 @@
     "definition": "יהיר"
   },
   {
-    "term": "valuable",
-    "definition": "בעל ערך"
-  },
-  {
     "term": "valuate",
     "definition": "להעריך"
-  },
-  {
-    "term": "value",
-    "definition": "ערך"
   },
   {
     "term": "vapor",
@@ -5760,10 +3885,6 @@
     "definition": "רחב, עצום"
   },
   {
-    "term": "vegetable",
-    "definition": "ירק"
-  },
-  {
     "term": "velocity",
     "definition": "מהירות"
   },
@@ -5780,40 +3901,12 @@
     "definition": "ניתן לבירור"
   },
   {
-    "term": "verify",
-    "definition": "לברר, לאמת"
-  },
-  {
-    "term": "version",
-    "definition": "גרסה"
-  },
-  {
     "term": "vertebrae",
     "definition": "חוליות עמוד השדרה"
   },
   {
-    "term": "village",
-    "definition": "כפר"
-  },
-  {
-    "term": "violence",
-    "definition": "אלימות"
-  },
-  {
     "term": "virtue",
     "definition": "מעלה"
-  },
-  {
-    "term": "visibility",
-    "definition": "ראות"
-  },
-  {
-    "term": "vision",
-    "definition": "ראייה"
-  },
-  {
-    "term": "volume",
-    "definition": "עוצמת קול, כרך של ספר, נפח"
   },
   {
     "term": "vulnerable",
@@ -5828,46 +3921,6 @@
     "definition": "בכי,זעקה, לילל"
   },
   {
-    "term": "wander",
-    "definition": "לשוטט"
-  },
-  {
-    "term": "warning",
-    "definition": "אזהרה"
-  },
-  {
-    "term": "waste",
-    "definition": "פסולת, בזבוז, לבזבז"
-  },
-  {
-    "term": "watch",
-    "definition": "לצפות, שעון"
-  },
-  {
-    "term": "wave",
-    "definition": "גל"
-  },
-  {
-    "term": "weather",
-    "definition": "מזג אוויר"
-  },
-  {
-    "term": "well",
-    "definition": "טוב, באר, ובכן"
-  },
-  {
-    "term": "west",
-    "definition": "מערב"
-  },
-  {
-    "term": "wet",
-    "definition": "רטוב"
-  },
-  {
-    "term": "whale",
-    "definition": "לוויתן"
-  },
-  {
     "term": "wharf",
     "definition": "מזח"
   },
@@ -5880,64 +3933,16 @@
     "definition": "שבאמצעותו"
   },
   {
-    "term": "whistle",
-    "definition": "משרוקית, לשרוק"
-  },
-  {
-    "term": "whole",
-    "definition": "הכל, שלם"
-  },
-  {
     "term": "wholesale",
     "definition": "סיטונאות"
-  },
-  {
-    "term": "wicked",
-    "definition": "רשע, רע"
   },
   {
     "term": "wickedness",
     "definition": "רוע, רשע"
   },
   {
-    "term": "wide",
-    "definition": "רחב"
-  },
-  {
-    "term": "widely",
-    "definition": "באופן נרחב"
-  },
-  {
     "term": "widespread",
     "definition": "נפוץ, נרחב"
-  },
-  {
-    "term": "wife",
-    "definition": "אישה (של מישהו)"
-  },
-  {
-    "term": "wild",
-    "definition": "פראי"
-  },
-  {
-    "term": "wildlife",
-    "definition": "חיות בר"
-  },
-  {
-    "term": "win",
-    "definition": "לנצח"
-  },
-  {
-    "term": "windmill",
-    "definition": "טחנת רוח"
-  },
-  {
-    "term": "wink",
-    "definition": "לקרוץ"
-  },
-  {
-    "term": "winter",
-    "definition": "חורף"
   },
   {
     "term": "wisdom",
@@ -5992,40 +3997,8 @@
     "definition": "שמחת חיים, הרגשת שביעות רצון ועניין"
   },
   {
-    "term": "zone",
-    "definition": "אזור, תחום"
-  },
-  {
-    "term": "zoo",
-    "definition": "גן חיות"
-  },
-  {
     "term": "tiresome",
     "definition": "מעייף, מייגע"
-  },
-  {
-    "term": "toilet",
-    "definition": "בית שימוש"
-  },
-  {
-    "term": "tolerate",
-    "definition": "לסבול משהו, לנשוא, להתיר, לסבול משהו"
-  },
-  {
-    "term": "tongue",
-    "definition": "לשון, שפה, ניב"
-  },
-  {
-    "term": "tooth",
-    "definition": "שן"
-  },
-  {
-    "term": "topic",
-    "definition": "נושא"
-  },
-  {
-    "term": "torch",
-    "definition": "פנס, לפיד"
   },
   {
     "term": "torment",
@@ -6034,10 +4007,6 @@
   {
     "term": "tortoise",
     "definition": "צב"
-  },
-  {
-    "term": "tour",
-    "definition": "סיור"
   },
   {
     "term": "towards",
@@ -6052,24 +4021,8 @@
     "definition": "סחר, מסחר, לסחור"
   },
   {
-    "term": "tradition",
-    "definition": "מסורת"
-  },
-  {
-    "term": "traditional",
-    "definition": "מסורתי"
-  },
-  {
-    "term": "traditionally",
-    "definition": "באופן מסורתי"
-  },
-  {
     "term": "traffic",
     "definition": "תנועה של כלי רכב"
-  },
-  {
-    "term": "train",
-    "definition": "רכבת, לאמן, להתאמן"
   },
   {
     "term": "trait",
@@ -6078,30 +4031,6 @@
   {
     "term": "tranquil",
     "definition": "שקט, רגוע"
-  },
-  {
-    "term": "transform",
-    "definition": "להפוך ל..., להשתנות"
-  },
-  {
-    "term": "transformation",
-    "definition": "שינוי"
-  },
-  {
-    "term": "transition",
-    "definition": "מעבר"
-  },
-  {
-    "term": "translate",
-    "definition": "לתרגם"
-  },
-  {
-    "term": "translation",
-    "definition": "תרגום"
-  },
-  {
-    "term": "travel",
-    "definition": "לטייל"
   },
   {
     "term": "traveler",
@@ -6116,14 +4045,6 @@
     "definition": "עצום, גדול"
   },
   {
-    "term": "trend",
-    "definition": "מגמה"
-  },
-  {
-    "term": "trigger",
-    "definition": "להפעיל, לעורר, דבר המעורר תגובה עזה, הדק"
-  },
-  {
     "term": "trivial",
     "definition": "שולי"
   },
@@ -6136,18 +4057,6 @@
     "definition": "מכנסיים"
   },
   {
-    "term": "trust",
-    "definition": "לסמוך"
-  },
-  {
-    "term": "type",
-    "definition": "סוג, להדפיס"
-  },
-  {
-    "term": "typical",
-    "definition": "אופייני"
-  },
-  {
     "term": "tyranny",
     "definition": "שלטון עריצות"
   },
@@ -6156,20 +4065,8 @@
     "definition": "עריץ"
   },
   {
-    "term": "ugly",
-    "definition": "מכוער"
-  },
-  {
-    "term": "ultimate",
-    "definition": "סופי"
-  },
-  {
     "term": "unavoidable",
     "definition": "בלתי נמנע"
-  },
-  {
-    "term": "uncle",
-    "definition": "דוד"
   },
   {
     "term": "underline",
@@ -6188,14 +4085,6 @@
     "definition": "קברן"
   },
   {
-    "term": "union",
-    "definition": "איחוד, איגוד"
-  },
-  {
-    "term": "unique",
-    "definition": "ייחודי"
-  },
-  {
     "term": "unison",
     "definition": "ביחד, בצוותא"
   },
@@ -6208,16 +4097,8 @@
     "definition": "לא טבעי"
   },
   {
-    "term": "upset",
-    "definition": "מודאג, מוטרד, נסער, להדאיג, להטריד"
-  },
-  {
     "term": "upwards",
     "definition": "כלפי מעלה"
-  },
-  {
-    "term": "urban",
-    "definition": "עירוני"
   },
   {
     "term": "urgent",
@@ -6228,40 +4109,8 @@
     "definition": "לחלוטין, לגמרי"
   },
   {
-    "term": "vacation",
-    "definition": "חופשה"
-  },
-  {
-    "term": "suggest",
-    "definition": "להציע"
-  },
-  {
-    "term": "suggestion",
-    "definition": "הצעה"
-  },
-  {
-    "term": "summer",
-    "definition": "קיץ"
-  },
-  {
     "term": "superfluous",
     "definition": "עודף, מיותר"
-  },
-  {
-    "term": "superior",
-    "definition": "נעלה, עליון"
-  },
-  {
-    "term": "supper",
-    "definition": "ארוחת ערב"
-  },
-  {
-    "term": "support",
-    "definition": "תמיכה"
-  },
-  {
-    "term": "suppose",
-    "definition": "לשער"
   },
   {
     "term": "supposedly",
@@ -6272,24 +4121,12 @@
     "definition": "השערה"
   },
   {
-    "term": "sure",
-    "definition": "להיות בטוח במשהו"
-  },
-  {
-    "term": "surface",
-    "definition": "פני השטח"
-  },
-  {
     "term": "surreptitiously",
     "definition": "באופן חשאי, סודי"
   },
   {
     "term": "surrounding",
     "definition": "מקיף"
-  },
-  {
-    "term": "survive",
-    "definition": "לשרוד"
   },
   {
     "term": "susceptible",
@@ -6316,26 +4153,6 @@
     "definition": "לטאטא"
   },
   {
-    "term": "swim",
-    "definition": "לשחות"
-  },
-  {
-    "term": "switch on/off",
-    "definition": "להדליק/לכבות"
-  },
-  {
-    "term": "symbol",
-    "definition": "סמל"
-  },
-  {
-    "term": "system",
-    "definition": "מערכת"
-  },
-  {
-    "term": "take",
-    "definition": "לקחת"
-  },
-  {
     "term": "take advantage of",
     "definition": "לנצל"
   },
@@ -6344,40 +4161,8 @@
     "definition": "להמריא"
   },
   {
-    "term": "tale",
-    "definition": "סיפור , מעשייה"
-  },
-  {
-    "term": "target",
-    "definition": "מטרה"
-  },
-  {
-    "term": "task",
-    "definition": "משימה, מטלה"
-  },
-  {
-    "term": "tax",
-    "definition": "מס"
-  },
-  {
     "term": "taxation",
     "definition": "מיסוי"
-  },
-  {
-    "term": "teach",
-    "definition": "ללמד"
-  },
-  {
-    "term": "technique",
-    "definition": "שיטה (טכניקה)"
-  },
-  {
-    "term": "teeth",
-    "definition": "שיניים"
-  },
-  {
-    "term": "tell",
-    "definition": "לספר, לומר"
   },
   {
     "term": "temper",
@@ -6404,44 +4189,12 @@
     "definition": "לנטות לעשות משהו"
   },
   {
-    "term": "tend to",
-    "definition": "לנטות ל..."
-  },
-  {
-    "term": "tendency",
-    "definition": "נטייה"
-  },
-  {
-    "term": "tender",
-    "definition": "ברכות, רך, עדין"
-  },
-  {
-    "term": "tense",
-    "definition": "זמן דקדוקי, מתוח"
-  },
-  {
-    "term": "tension",
-    "definition": "מתח"
-  },
-  {
-    "term": "theme",
-    "definition": "נושא מרכזי"
-  },
-  {
-    "term": "theory",
-    "definition": "השערה, תיאוריה"
-  },
-  {
     "term": "therefore",
     "definition": "לכן"
   },
   {
     "term": "think",
     "definition": "לחשוב על..."
-  },
-  {
-    "term": "thirst",
-    "definition": "צמא"
   },
   {
     "term": "thorax",
@@ -6468,14 +4221,6 @@
     "definition": "לפיכך, לכן"
   },
   {
-    "term": "tight",
-    "definition": "צמוד, הדוק"
-  },
-  {
-    "term": "smell",
-    "definition": "להריח"
-  },
-  {
     "term": "smother",
     "definition": "לכסות, לחנוק"
   },
@@ -6484,40 +4229,16 @@
     "definition": "חוטם של בעל חיים"
   },
   {
-    "term": "society",
-    "definition": "חברה"
-  },
-  {
     "term": "solidarity",
     "definition": "אחדות"
-  },
-  {
-    "term": "solution",
-    "definition": "תמיסה, פתרון"
   },
   {
     "term": "solve",
     "definition": "לפתור"
   },
   {
-    "term": "son",
-    "definition": "בן"
-  },
-  {
     "term": "sophisticated",
     "definition": "מתוחכם"
-  },
-  {
-    "term": "source",
-    "definition": "מקור"
-  },
-  {
-    "term": "south",
-    "definition": "דרום"
-  },
-  {
-    "term": "speak",
-    "definition": "לדבר"
   },
   {
     "term": "species",
@@ -6604,22 +4325,6 @@
     "definition": "גירוי"
   },
   {
-    "term": "stink",
-    "definition": "להסריח"
-  },
-  {
-    "term": "stomach",
-    "definition": "בטן"
-  },
-  {
-    "term": "store",
-    "definition": "חנות, לאחסן"
-  },
-  {
-    "term": "straight",
-    "definition": "ישר"
-  },
-  {
     "term": "stranger",
     "definition": "זר"
   },
@@ -6636,20 +4341,8 @@
     "definition": "להדגיש, מתח, לחץ"
   },
   {
-    "term": "stretch",
-    "definition": "להימתח, למתוח"
-  },
-  {
     "term": "strive",
     "definition": "לחתור"
-  },
-  {
-    "term": "struggle",
-    "definition": "מאבק, להיאבק"
-  },
-  {
-    "term": "study",
-    "definition": "ללמוד, מחקר"
   },
   {
     "term": "stunt",
@@ -6660,24 +4353,8 @@
     "definition": "פעלולן (בסרטים)"
   },
   {
-    "term": "style",
-    "definition": "סגנון"
-  },
-  {
     "term": "subconscious",
     "definition": "תת מודע"
-  },
-  {
-    "term": "subject",
-    "definition": "נושא"
-  },
-  {
-    "term": "submit",
-    "definition": "להיכנע, להגיש"
-  },
-  {
-    "term": "subscribe",
-    "definition": "לעשות מנוי"
   },
   {
     "term": "sudden",
@@ -6716,32 +4393,8 @@
     "definition": "להכניס"
   },
   {
-    "term": "[to] appeal",
-    "definition": "לבקש"
-  },
-  {
-    "term": "[to] arouse",
-    "definition": "לעורר"
-  },
-  {
-    "term": "blindness",
-    "definition": "עיוורון"
-  },
-  {
-    "term": "[to] bother",
-    "definition": "להפריע"
-  },
-  {
-    "term": "[to] brake",
-    "definition": "לעצור"
-  },
-  {
     "term": "[to] brighten",
     "definition": "להבהיר"
-  },
-  {
-    "term": "brightness",
-    "definition": "בהירות"
   },
   {
     "term": "[to] broaden",
@@ -6750,10 +4403,6 @@
   {
     "term": "consolation",
     "definition": "נחמה"
-  },
-  {
-    "term": "[to] critique",
-    "definition": "לבקר"
   },
   {
     "term": "crossroads",
@@ -6772,60 +4421,24 @@
     "definition": "באופן מעמיק"
   },
   {
-    "term": "[to] disturb",
-    "definition": "להפריע"
-  },
-  {
-    "term": "[to] enlighten",
-    "definition": "להסביר"
-  },
-  {
-    "term": "[to] ensure",
-    "definition": "להבטיח"
-  },
-  {
-    "term": "[to] evolve",
-    "definition": "לפתח"
-  },
-  {
     "term": "expectancy",
     "definition": "ציפייה"
-  },
-  {
-    "term": "far",
-    "definition": "רחוק"
   },
   {
     "term": "farther",
     "definition": "יותר רחוק"
   },
   {
+    "term": "furthermore",
+    "definition": "יֶתֶר עַל כֵּן"
+  },
+  {
     "term": "fear",
     "definition": "פחד"
   },
   {
-    "term": "[to] generate",
-    "definition": "לייצר"
-  },
-  {
     "term": "growth",
     "definition": "גדילה"
-  },
-  {
-    "term": "[to] harm",
-    "definition": "לפגוע"
-  },
-  {
-    "term": "height",
-    "definition": "גובה"
-  },
-  {
-    "term": "[to] horrify",
-    "definition": "להפחיד"
-  },
-  {
-    "term": "[to] inspect",
-    "definition": "לבדוק"
   },
   {
     "term": "intriguing",
@@ -6836,10 +4449,6 @@
     "definition": "חיבור"
   },
   {
-    "term": "low",
-    "definition": "נמוך"
-  },
-  {
     "term": "maturity",
     "definition": "בגרות"
   },
@@ -6848,20 +4457,8 @@
     "definition": "טוהר"
   },
   {
-    "term": "recommendation",
-    "definition": "המלצה"
-  },
-  {
-    "term": "recovery",
-    "definition": "החלמה"
-  },
-  {
     "term": "regional",
     "definition": "אזורי"
-  },
-  {
-    "term": "[to] remind",
-    "definition": "להזכיר"
   },
   {
     "term": "repetition",
@@ -6876,36 +4473,12 @@
     "definition": "שחזור"
   },
   {
-    "term": "rhythm",
-    "definition": "קצב"
-  },
-  {
-    "term": "scare",
-    "definition": "פחד"
-  },
-  {
     "term": "[to] stink",
     "definition": "להסריח"
   },
   {
     "term": "tolerance",
     "definition": "סיבולת"
-  },
-  {
-    "term": "training",
-    "definition": "אימון"
-  },
-  {
-    "term": "[to] valuate",
-    "definition": "לאמוד"
-  },
-  {
-    "term": "[to] vote",
-    "definition": "להצביע"
-  },
-  {
-    "term": "wealth",
-    "definition": "עושר"
   },
   {
     "term": "zip",
@@ -6928,40 +4501,12 @@
     "definition": "לסבול"
   },
   {
-    "term": "[to] annex",
-    "definition": "לצרף"
-  },
-  {
-    "term": "[to] ascertain",
-    "definition": "לוודא"
-  },
-  {
-    "term": "[to] awe",
-    "definition": "לעורר יראת כבוד"
-  },
-  {
     "term": "bait",
     "definition": "פיתיון"
   },
   {
-    "term": "belief",
-    "definition": "אמונה"
-  },
-  {
     "term": "[to] bestow",
     "definition": "להעניק"
-  },
-  {
-    "term": "[to] bridle",
-    "definition": "לרסן"
-  },
-  {
-    "term": "[to] certify",
-    "definition": "לאשר"
-  },
-  {
-    "term": "[to] conquer",
-    "definition": "לכבוש"
   },
   {
     "term": "dictation",
@@ -6972,20 +4517,12 @@
     "definition": "נאור"
   },
   {
-    "term": "[to] estimate",
-    "definition": "להעריך"
-  },
-  {
     "term": "[to] evacuate",
     "definition": "לפנות"
   },
   {
     "term": "evacuation",
     "definition": "פינוי"
-  },
-  {
-    "term": "[to] explore",
-    "definition": "לחקור"
   },
   {
     "term": "fiction",
@@ -6996,20 +4533,12 @@
     "definition": "מהיר"
   },
   {
-    "term": "[to] fracture",
-    "definition": "להישבר"
-  },
-  {
     "term": "germ",
     "definition": "ראשית"
   },
   {
     "term": "[to] glare",
     "definition": "להביט בזעם"
-  },
-  {
-    "term": "[to] imply",
-    "definition": "לרמוז"
   },
   {
     "term": "inanimate",
@@ -7032,10 +4561,6 @@
     "definition": "לתעש"
   },
   {
-    "term": "[to] intrigue",
-    "definition": "לסקרן"
-  },
-  {
     "term": "intrigued",
     "definition": "מסוקרן"
   },
@@ -7046,10 +4571,6 @@
   {
     "term": "invasion",
     "definition": "פלישה"
-  },
-  {
-    "term": "[to] invite",
-    "definition": "להזמין"
   },
   {
     "term": "jail",
@@ -7074,10 +4595,6 @@
   {
     "term": "masterpiece",
     "definition": "יצירת מופת"
-  },
-  {
-    "term": "[to] memorize",
-    "definition": "לשנן"
   },
   {
     "term": "municipality",
@@ -8449,7 +5966,7 @@
   },
   {
     "term": "loyal",
-    "definition": "לוֹיָאלִי, שומר אמונים"
+    "definition": "נאמן"
   },
   {
     "term": "lucrative",
@@ -9116,8 +6633,8 @@
     "definition": "העלה זיכרונות"
   },
   {
-    "term": "remove",
-    "definition": "הוֹרִיד, הֵסִיר"
+    "term": "reciprocate",
+    "definition": "להחזיר, לגמול, להשיב מידה כנגד מידה"
   },
   {
     "term": "replicate",
@@ -9126,10 +6643,6 @@
   {
     "term": "report",
     "definition": "דִּוֵּחַ;הִתְיַצֵּב לפני"
-  },
-  {
-    "term": "research",
-    "definition": "מֶחְקָר, חֲקִירָה"
   },
   {
     "term": "resent",
@@ -9176,16 +6689,8 @@
     "definition": "מְהוּמָה, הִתְפָּרְעוּת;סלנג כינוי למשהו או למישהו מצחיק מאוד"
   },
   {
-    "term": "ritual",
-    "definition": "רִיטוּאָל, פֻּלְחָן"
-  },
-  {
     "term": "rough",
     "definition": "קָשֶׁה, מְחֻסְפָּס;גָּלְמִי"
-  },
-  {
-    "term": "route",
-    "definition": "דֶּרֶךְ, נָתִיב"
   },
   {
     "term": "rudimentary",
@@ -9220,24 +6725,12 @@
     "definition": "קְדֻשָּׁה"
   },
   {
-    "term": "sarcastic",
-    "definition": "סַרְקַסְטִי, לַגְלְגָנִי, עוֹקְצָנִי"
-  },
-  {
-    "term": "scar",
-    "definition": "צַלֶּקֶת"
-  },
-  {
     "term": "scarce",
     "definition": "נָדִיר, יְקַר הַמְּצִיאוּת;מְצֻמְצָם, מוּעָט, שאינו מספיק"
   },
   {
     "term": "scatter",
     "definition": "פִּזֵּר;הִתְפַּזֵּר"
-  },
-  {
-    "term": "scenario",
-    "definition": "תַּסְרִיט, סְצֶנַרְיוֹ"
   },
   {
     "term": "scenery",
@@ -9277,7 +6770,7 @@
   },
   {
     "term": "shield",
-    "definition": "מָגֵן, צִנָּה"
+    "definition": "מָגֵן"
   },
   {
     "term": "shortage",
@@ -9293,7 +6786,7 @@
   },
   {
     "term": "solid",
-    "definition": "סוֹלִידִי, שָׁקוּל, רְצִינִי, מְיֻשָּׁב;מוּצָק;מָלֵא, לא חלול, טָמוּם"
+    "definition": "שָׁקוּל, רְצִינִי; מוצק"
   },
   {
     "term": "sparse",
@@ -9332,14 +6825,6 @@
     "definition": "הִצְהִיר, הִבִּיעַ, בִּטֵּא"
   },
   {
-    "term": "steady",
-    "definition": "יַצִּיב, אֵיתָן;קָבוּעַ;מְחֻשָּׁב, מְיֻשָּׁב, דַּעְתּוֹ מְיֻשֶּׁבֶת עָלָיו;מְמֻשָּׁךְ, מתמשך"
-  },
-  {
-    "term": "steep",
-    "definition": "תָּלוּל;בלשון הדיבור גָּבוֹהַּ, מֻגְזָם;בלשון הדיבור שְׁאַפְתָּנִי"
-  },
-  {
     "term": "stellar",
     "definition": "כּוֹכָבִי;מצטיין"
   },
@@ -9350,10 +6835,6 @@
   {
     "term": "stimulate",
     "definition": "גֵּרָה, עוֹרֵר, הִמְרִיץ"
-  },
-  {
-    "term": "strengthen",
-    "definition": "חִזֵּק"
   },
   {
     "term": "structure",
@@ -9382,10 +6863,6 @@
   {
     "term": "suffice",
     "definition": "הִסְפִּיק, הִשְׂבִּיעַ אֶת רְצוֹנוֹ של מישהו"
-  },
-  {
-    "term": "summary",
-    "definition": "סִכּוּם, תַּמְצִית"
   },
   {
     "term": "summit",
@@ -9460,28 +6937,20 @@
     "definition": "עֵדוּת"
   },
   {
-    "term": "thought",
-    "definition": "מַחְשָׁבָה, רַעְיוֹן"
-  },
-  {
     "term": "thoughtful",
     "definition": "מִתְחַשֵּׁב;מְהֻרְהָר;מלא מחשבה"
   },
   {
     "term": "threshold",
-    "definition": "סַף, מִפְתָּן"
+    "definition": "סַף"
   },
   {
     "term": "timid",
     "definition": "בַּיְשָׁן"
   },
   {
-    "term": "torture",
-    "definition": "עִנּוּי"
-  },
-  {
     "term": "tough",
-    "definition": "קָשִׁיחַ, עָמִיד;קָשֶׁה, מְאֻבָּן;קָשׁוּחַ;בלשון הדיבור חֲסַר מַזָּל"
+    "definition": "קָשִׁיחַ, עמיד"
   },
   {
     "term": "track",
@@ -9494,10 +6963,6 @@
   {
     "term": "transaction",
     "definition": "עִסְקָה, טְרַנְסַקְצְיָה;ברבים פְּרוֹטוֹקוֹל"
-  },
-  {
-    "term": "transfer",
-    "definition": "הֶעֱבִיר"
   },
   {
     "term": "transient",
@@ -9518,10 +6983,6 @@
   {
     "term": "tread",
     "definition": "צָעַד, דָּרַךְ, פָּסַע;רָמַס, דָּרַס"
-  },
-  {
-    "term": "treatment",
-    "definition": "טִפּוּל;יַחַס;קולנוע וטלוויזיה תקציר של תסריט, הכולל רשימת סצינות ללא הדיאלוגים"
   },
   {
     "term": "tremble",
@@ -9548,16 +7009,8 @@
     "definition": "סוֹעֵר, גּוֹעֵשׁ;מְעַרְבּוֹלִי, טוּרְבּוּלֶנְטִי"
   },
   {
-    "term": "twist",
-    "definition": "סִבֵּב, פִּתֵּל, עִקֵּם;עִוֵּת"
-  },
-  {
     "term": "unanimous",
     "definition": "תְּמִים דֵּעִים עם מישהו, בְּדֵעָה אַחַת;פֶּה אֶחָד"
-  },
-  {
-    "term": "unconscious",
-    "definition": "חֲסַר הַכָּרָה"
   },
   {
     "term": "undefined",
@@ -9600,26 +7053,6 @@
     "definition": "אִחֵד"
   },
   {
-    "term": "unite",
-    "definition": "אִחֵד, לִכֵּד"
-  },
-  {
-    "term": "universe",
-    "definition": "יְקוּם;עוֹלָם"
-  },
-  {
-    "term": "unnecessary",
-    "definition": "מְיֻתָּר, שאין בו צורך"
-  },
-  {
-    "term": "unofficial",
-    "definition": "בלתי רשמי"
-  },
-  {
-    "term": "unoriginal",
-    "definition": "לא מקורי"
-  },
-  {
     "term": "unravel",
     "definition": "פָּרַם, הִתִּיר;פָּתַר, הִסְבִּיר; נִפְרַם; נִכְשַׁל, הִתְפָּרֵק"
   },
@@ -9645,7 +7078,7 @@
   },
   {
     "term": "unwind",
-    "definition": "רִפָּה, רוֹפֵף;הִתִּיר; הִתְרוֹפֵף, הִשְׁתַּחְרֵר; נִרְגַּע"
+    "definition": "להתיר, להרגע"
   },
   {
     "term": "upheaval",
@@ -9748,10 +7181,6 @@
     "definition": "מִשְׁתַּנֶּה"
   },
   {
-    "term": "vehicle",
-    "definition": "כְּלִי רֶכֶב;אֶמְצָעִי, כְּלִי, מַכְשִׁיר"
-  },
-  {
     "term": "veil",
     "definition": "כִּסָּה, מִסֵּךְ, הִסְתִּיר;לבש רעלה"
   },
@@ -9776,14 +7205,6 @@
     "definition": "מְרֻשָּׁע, אַכְזָרִי;בלשון הדיבור קָשֶׁה, מְסֻכָּן"
   },
   {
-    "term": "victim",
-    "definition": "קָרְבָּן"
-  },
-  {
-    "term": "victory",
-    "definition": "נִצָּחוֹן"
-  },
-  {
     "term": "vigilant",
     "definition": "שעומד על המשמר, דָּרוּךְ, עֵרָנִי"
   },
@@ -9804,16 +7225,12 @@
     "definition": "חִלֵּל, טִמֵּא;הֵפֵר; פָּגַע במשהו; אָנַס"
   },
   {
-    "term": "visual",
-    "definition": "וִיזוּאָלִי, חָזוּתִי"
-  },
-  {
     "term": "vitality",
-    "definition": "וִיטָלִיּוּת, חִיּוּנִיּוּת"
+    "definition": "חִיּוּנִיּוּת"
   },
   {
     "term": "vivid",
-    "definition": "חַד, בָּהִיר;צִבְעוֹנִי, סַסְגּוֹנִי, עָשִׁיר;חַי;שׁוֹפֵעַ"
+    "definition": "חַד, בָּהִיר; צִבְעוֹנִי, ססגוני"
   },
   {
     "term": "volatile",
@@ -9825,23 +7242,19 @@
   },
   {
     "term": "voyage",
-    "definition": "מַסָּע, נְסִיעָה;הַפְלָגָה"
+    "definition": "מסע, נסיעה"
   },
   {
     "term": "warrant",
-    "definition": "הִצְדִּיק; יִפָּה אֶת כּוֹחוֹ של מישהו;הִבְטִיחַ, עָרַב, הִתְחַיֵּב;הִצְהִיר בבטחה"
+    "definition": "צו, יפוי כוח"
   },
   {
     "term": "wary",
-    "definition": "זָהִיר"
+    "definition": "זהיר"
   },
   {
     "term": "wayward",
     "definition": "קַפְּרִיזִי, גַּחֲמָנִי;בִּלְתִּי צָפוּי;הֲפַכְפַּךְ"
-  },
-  {
-    "term": "weakness",
-    "definition": "חֻלְשָׁה;חִסָּרוֹן, נְקֻדַּת תֻּרְפָּה"
   },
   {
     "term": "wear out",
@@ -9849,7 +7262,7 @@
   },
   {
     "term": "weary",
-    "definition": "עָיֵף, יָגֵעַ, תָּשׁוּשׁ, לֵאֶה"
+    "definition": "עָיֵף, תָּשׁוּשׁ"
   },
   {
     "term": "weave",
@@ -9868,16 +7281,8 @@
     "definition": "שְׁלוֹמוּת, מצב של רווחה גופנית, נפשית וחברתית"
   },
   {
-    "term": "width",
-    "definition": "רֹחַב"
-  },
-  {
     "term": "wile",
     "definition": "הוֹנָאָה, תַּרְמִית, הוֹלָכַת שׁוֹלָל; תַּחְבּוּלָה, תַּכְסִיס"
-  },
-  {
-    "term": "will",
-    "definition": "רָצוֹן, רְצִיָּה;צַוָּאָה"
   },
   {
     "term": "willing",
@@ -9928,10 +7333,6 @@
     "definition": "קְנֵה מִדָּה"
   },
   {
-    "term": "yearly",
-    "definition": "שְׁנָתִי"
-  },
-  {
     "term": "yearning",
     "definition": "כְּמִיהָה, עֶרְגָּה, הִשְׁתּוֹקְקוּת"
   },
@@ -9949,7 +7350,7 @@
   },
   {
     "term": "zenith",
-    "definition": "אַסְטְרוֹנוֹמְיָה זֶנִית, נקודה בכיפת השמיים הנמצאת בדיוק מעל ראש המתבונן;פִּסְגָּה, שִׂיא"
+    "definition": "נקודה בכיפת השמיים הנמצאת בדיוק מעל ראש המתבונן;פִּסְגָּה, שִׂיא"
   },
   {
     "term": "adequate",
@@ -9960,32 +7361,16 @@
     "definition": "לשנות"
   },
   {
-    "term": "alternative",
-    "definition": "חלופה"
-  },
-  {
     "term": "approximate",
     "definition": "בקירוב"
-  },
-  {
-    "term": "aspect",
-    "definition": "היבט"
   },
   {
     "term": "assess",
     "definition": "להעריך"
   },
   {
-    "term": "category",
-    "definition": "קטגוריה"
-  },
-  {
     "term": "commit",
     "definition": "להתחייב"
-  },
-  {
-    "term": "concept",
-    "definition": "מושג"
   },
   {
     "term": "contest",
@@ -10000,32 +7385,8 @@
     "definition": "אומץ"
   },
   {
-    "term": "create",
-    "definition": "ליצור"
-  },
-  {
-    "term": "cruel",
-    "definition": "אכזרי"
-  },
-  {
-    "term": "data",
-    "definition": "נתונים"
-  },
-  {
-    "term": "debate",
-    "definition": "דיון"
-  },
-  {
     "term": "deceive",
     "definition": "לרמות"
-  },
-  {
-    "term": "degree",
-    "definition": "מידה, תואר"
-  },
-  {
-    "term": "delay",
-    "definition": "עיכוב"
   },
   {
     "term": "depend",
@@ -10036,10 +7397,6 @@
     "definition": "לדכא"
   },
   {
-    "term": "design",
-    "definition": "עיצוב"
-  },
-  {
     "term": "despair",
     "definition": "ייאוש"
   },
@@ -10048,28 +7405,12 @@
     "definition": "כבוד"
   },
   {
-    "term": "document",
-    "definition": "מסמך"
-  },
-  {
     "term": "drab",
     "definition": "אפרורי"
   },
   {
-    "term": "draft",
-    "definition": "טיוטה"
-  },
-  {
     "term": "earn",
     "definition": "להרוויח"
-  },
-  {
-    "term": "edit",
-    "definition": "לערוך"
-  },
-  {
-    "term": "educate",
-    "definition": "לחנך"
   },
   {
     "term": "elegant",
@@ -10082,18 +7423,6 @@
   {
     "term": "envy",
     "definition": "קנאה"
-  },
-  {
-    "term": "equal",
-    "definition": "שווה"
-  },
-  {
-    "term": "error",
-    "definition": "שגיאה"
-  },
-  {
-    "term": "escape",
-    "definition": "לברוח"
   },
   {
     "term": "eternal",
@@ -10112,36 +7441,8 @@
     "definition": "לבצע"
   },
   {
-    "term": "exist",
-    "definition": "להתקיים"
-  },
-  {
-    "term": "expect",
-    "definition": "לצפות"
-  },
-  {
-    "term": "expert",
-    "definition": "מומחה"
-  },
-  {
-    "term": "expose",
-    "definition": "לחשוף"
-  },
-  {
     "term": "fabricate",
     "definition": "לבדות"
-  },
-  {
-    "term": "fade",
-    "definition": "לדהות"
-  },
-  {
-    "term": "fail",
-    "definition": "להיכשל"
-  },
-  {
-    "term": "faith",
-    "definition": "אמונה"
   },
   {
     "term": "fatal",
@@ -10152,36 +7453,12 @@
     "definition": "טובה"
   },
   {
-    "term": "finance",
-    "definition": "כספים"
-  },
-  {
-    "term": "focus",
-    "definition": "מוקד"
-  },
-  {
-    "term": "follow",
-    "definition": "לעקוב"
-  },
-  {
     "term": "foreign",
     "definition": "זר"
   },
   {
-    "term": "forgive",
-    "definition": "לסלוח"
-  },
-  {
-    "term": "formula",
-    "definition": "נוסחה"
-  },
-  {
     "term": "fragment",
     "definition": "רסיס"
-  },
-  {
-    "term": "friend",
-    "definition": "חבר"
   },
   {
     "term": "frighten",
@@ -10196,24 +7473,8 @@
     "definition": "מבט"
   },
   {
-    "term": "giant",
-    "definition": "ענק"
-  },
-  {
-    "term": "global",
-    "definition": "עולמי"
-  },
-  {
-    "term": "grow",
-    "definition": "לגדול"
-  },
-  {
     "term": "guarantee",
     "definition": "אחריות"
-  },
-  {
-    "term": "guide",
-    "definition": "מדריך"
   },
   {
     "term": "halt",

@@ -7,9 +7,9 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        inter: ['rubik', 'sans-serif'],
-        englishCursive: ['cursive'],
-        hebrewRubik: ['Rubik', 'sans-serif'],           
+        inter: ['Inter', 'sans-serif'],
+        englishHandwritten: ['Fredoka', 'sans-serif'], //
+        hebrewRubik: ['Rubik', 'sans-serif'],
       },
     },
   },
