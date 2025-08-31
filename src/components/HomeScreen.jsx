@@ -1,12 +1,15 @@
 import React from 'react';
 import { ChevronLeft, ChevronRight, CheckCircle, Circle, Home, BookOpen, Gamepad, ClipboardList, Link, List, XCircle } from 'lucide-react'; // Added 'XCircle' icon for removing words
 
-export default function HomeScreen({ setCurrentView, learnedWordsCount, totalWordsCount }) {
+export default function HomeScreen({ setCurrentView, learnedWordsCount, totalWordsCount, score }) {
   return (
-    <div className="flex flex-col items-center justify-center min-h-screen">
-      <h1 className="text-4xl sm:text-5xl font-extrabold font-hebrewRubik text-indigo-800 mb-12 text-center drop-shadow-md">
+    <div className="flex flex-col items-center justify-center min-h-svh">
+      <h1 className="text-4xl sm:text-5xl font-extrabold font-hebrewRubik text-indigo-800 mb-4 text-center drop-shadow-md">
         הכנה למבחן אמירנט
       </h1>
+      <p className="text-3xl font-semibold text-green-600 mb-12">
+        Points: {score}
+      </p>
 
       <div className="grid grid-cols-1 md:grid-cols-3 gap-8 w-full max-w-4xl">
         <button
@@ -52,7 +55,6 @@ export default function HomeScreen({ setCurrentView, learnedWordsCount, totalWor
         Learned words: {learnedWordsCount} / {totalWordsCount}
       </p>
 
-      {/* New "Learned Words List" micro button */}
       <button
         onClick={() => setCurrentView('learnedWordsList')}
         className="mt-6 px-4 py-2 bg-gray-200 text-gray-700 text-md font-semibold rounded-full shadow-md hover:bg-gray-300 transition-all duration-200 ease-in-out transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-gray-400 focus:ring-opacity-75 flex items-center"

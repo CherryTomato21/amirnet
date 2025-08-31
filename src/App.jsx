@@ -5,26 +5,26 @@ import MatchingGame from './components/MatchingGame.jsx';
 import MultipleChoice from './components/MultipleChoice.jsx';
 import LearnedWordsList from './components/LearnedWordsList.jsx';
 
-// Utility to debounce function calls
-const debounce = (func, delay) => {
-  let timeout;
-  return function (...args) {
-    const context = this;
-    clearTimeout(timeout);
-    timeout = setTimeout(() => func.apply(context, args), delay);
-  };
-};
-
 export default function App() {
+  const debounce = (func, delay) => {
+    let timeout;
+    return function(...args) {
+      const context = this;
+      clearTimeout(timeout);
+      timeout = setTimeout(() => func.apply(context, args), delay);
+    };
+  };
+
   const [allWords, setAllWords] = useState([]);
   const [isLoadingWords, setIsLoadingWords] = useState(true);
   const [wordsError, setWordsError] = useState(null);
-  const [learnedWordsIndices, setLearnedWordsIndices] = useState(new Set(Array.from(JSON.parse(localStorage.getItem('amirnet_learned_words') || '[]'))));
+  const [wordMastery, setWordMastery] = useState(() => JSON.parse(localStorage.getItem('amirnet_word_mastery') || '{}'));
+  const [score, setScore] = useState(() => parseInt(localStorage.getItem('amirnet_score') || '0', 10));
   const [currentView, setCurrentView] = useState('home');
 
-  const LOCAL_STORAGE_KEY = 'amirnet_learned_words';
+  const WORD_MASTERY_KEY = 'amirnet_word_mastery';
+  const SCORE_KEY = 'amirnet_score';
 
-  // Fetch words once at the top level
   useEffect(() => {
     const fetchAllWords = async () => {
       try {
@@ -36,7 +36,7 @@ export default function App() {
         setAllWords(wordsData);
       } catch (e) {
         console.error("Failed to fetch all words:", e);
-        setWordsError("Failed to load vocabulary. Please check the words.json file.");
+        setWordsError("Failed to load vocabulary. Please check the words.json file and your vite.config.js base path.");
       } finally {
         setIsLoadingWords(false);
       }
@@ -44,26 +44,21 @@ export default function App() {
     fetchAllWords();
   }, []);
 
-  // Save learned words to local storage whenever it changes (debounced)
-  const debouncedSaveLearnedWords = useCallback(
-    debounce((learnedSet) => {
-      localStorage.setItem(LOCAL_STORAGE_KEY, JSON.stringify(Array.from(learnedSet)));
-      console.log('Learned words saved to local storage.');
+  const debouncedSaveState = useCallback(
+    debounce((mastery, currentScore) => {
+      localStorage.setItem(WORD_MASTERY_KEY, JSON.stringify(mastery));
+      localStorage.setItem(SCORE_KEY, currentScore.toString());
     }, 500),
     []
   );
 
   useEffect(() => {
-    // Only save if learnedWordsIndices is not empty or if there's an existing item to potentially clear
-    if (learnedWordsIndices.size > 0 || localStorage.getItem(LOCAL_STORAGE_KEY) !== null) {
-      debouncedSaveLearnedWords(learnedWordsIndices);
-    }
-  }, [learnedWordsIndices, debouncedSaveLearnedWords]);
-
+    debouncedSaveState(wordMastery, score);
+  }, [wordMastery, score, debouncedSaveState]);
 
   if (isLoadingWords) {
     return (
-      <div className="flex items-center justify-center min-h-screen bg-gradient-to-br from-blue-50 to-indigo-100 font-inter p-4">
+      <div className="flex items-center justify-center min-h-svh bg-gradient-to-br from-blue-50 to-indigo-100 font-inter p-4">
         <p className="text-xl text-indigo-700 animate-pulse">Loading application data...</p>
       </div>
     );
@@ -71,7 +66,7 @@ export default function App() {
 
   if (wordsError) {
     return (
-      <div className="flex flex-col items-center justify-center min-h-screen bg-red-50 font-inter p-4">
+      <div className="flex flex-col items-center justify-center min-h-svh bg-red-50 font-inter p-4">
         <p className="text-xl text-red-700 mb-4">{wordsError}</p>
         <button
           onClick={() => window.location.reload()}
@@ -83,11 +78,13 @@ export default function App() {
     );
   }
 
+  const learnedWordsCount = Object.values(wordMastery).filter(count => count >= 3).length;
+
   const renderView = () => {
-    const commonProps = { setCurrentView, allWords, learnedWordsIndices, setLearnedWordsIndices };
+    const commonProps = { setCurrentView, allWords, wordMastery, setWordMastery, score, setScore };
     switch (currentView) {
       case 'home':
-        return <HomeScreen {...commonProps} learnedWordsCount={learnedWordsIndices.size} totalWordsCount={allWords.length} />;
+        return <HomeScreen {...commonProps} learnedWordsCount={learnedWordsCount} totalWordsCount={allWords.length} />;
       case 'flashcards':
         return <FlashcardPractice {...commonProps} />;
       case 'multipleChoice':
@@ -97,12 +94,12 @@ export default function App() {
       case 'learnedWordsList':
         return <LearnedWordsList {...commonProps} />;
       default:
-        return <HomeScreen {...commonProps} learnedWordsCount={learnedWordsIndices.size} totalWordsCount={allWords.length} />;
+        return <HomeScreen {...commonProps} learnedWordsCount={learnedWordsCount} totalWordsCount={allWords.length} />;
     }
   };
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-blue-50 to-indigo-100 font-inter p-4 sm:p-6 md:p-8">
+    <div className="min-h-svh bg-gradient-to-br from-blue-50 to-indigo-100 font-inter p-4 sm:p-6 md:p-8">
       {renderView()}
     </div>
   );

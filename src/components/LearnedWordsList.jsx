@@ -1,8 +1,8 @@
 import React, { useState } from 'react';
 import { Home, XCircle } from 'lucide-react';
 
-export default function LearnedWordsList({ setCurrentView, allWords, learnedWordsIndices, setLearnedWordsIndices }) {
-  const learnedWords = allWords.filter((_, index) => learnedWordsIndices.has(index));
+export default function LearnedWordsList({ setCurrentView, allWords, wordMastery, setWordMastery }) {
+  const learnedWords = allWords.filter((_, index) => (wordMastery[index] || 0) >= 3);
   const [searchTerm, setSearchTerm] = useState('');
 
   const filteredLearnedWords = learnedWords.filter(word =>
@@ -10,21 +10,19 @@ export default function LearnedWordsList({ setCurrentView, allWords, learnedWord
     word.definition.toLowerCase().includes(searchTerm.toLowerCase())
   );
 
-
   const handleRemoveLearnedWord = (wordToRemove) => {
     const originalIndex = allWords.indexOf(wordToRemove);
     if (originalIndex !== -1) {
-      setLearnedWordsIndices(prevSet => {
-        const newSet = new Set(prevSet);
-        newSet.delete(originalIndex);
-        return newSet;
+      setWordMastery(prevMastery => {
+        const newMastery = { ...prevMastery };
+        delete newMastery[originalIndex];
+        return newMastery;
       });
     }
   };
 
   return (
-    <div className="flex flex-col items-center min-h-screen p-4">
-      {/* Back to Home Button */}
+    <div className="flex flex-col items-center min-h-svh p-4">
       <button
         onClick={() => setCurrentView('home')}
         className="absolute top-4 left-4 flex items-center px-4 py-2 bg-gray-200 text-gray-700 text-sm font-semibold rounded-full shadow-md hover:bg-gray-300 transition-all duration-200 ease-in-out transform hover:scale-105"
