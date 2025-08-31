@@ -63,7 +63,7 @@ export default function App() {
 
   if (isLoadingWords) {
     return (
-      <div className="flex items-center justify-center min-h-svh bg-gradient-to-br from-blue-50 to-indigo-100 font-inter p-4">
+      <div className="flex items-center justify-center min-h-screen bg-gradient-to-br from-blue-50 to-indigo-100 font-inter p-4">
         <p className="text-xl text-indigo-700 animate-pulse">Loading application data...</p>
       </div>
     );
@@ -71,7 +71,7 @@ export default function App() {
 
   if (wordsError) {
     return (
-      <div className="flex flex-col items-center justify-center min-h-svh bg-red-50 font-inter p-4">
+      <div className="flex flex-col items-center justify-center min-h-screen bg-red-50 font-inter p-4">
         <p className="text-xl text-red-700 mb-4">{wordsError}</p>
         <button
           onClick={() => window.location.reload()}
@@ -102,7 +102,7 @@ export default function App() {
   };
 
   return (
-    <div className="min-h-svh bg-gradient-to-br from-blue-50 to-indigo-100 font-inter p-4 sm:p-6 md:p-8">
+    <div className="min-h-screen bg-gradient-to-br from-blue-50 to-indigo-100 font-inter p-4 sm:p-6 md:p-8">
       {renderView()}
     </div>
   );

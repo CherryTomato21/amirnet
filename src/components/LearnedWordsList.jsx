@@ -23,7 +23,7 @@ export default function LearnedWordsList({ setCurrentView, allWords, learnedWord
   };
 
   return (
-    <div className="flex flex-col items-center min-h-svh p-4">
+    <div className="flex flex-col items-center min-h-screen p-4">
       {/* Back to Home Button */}
       <button
         onClick={() => setCurrentView('home')}

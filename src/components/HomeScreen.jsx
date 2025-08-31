@@ -3,7 +3,7 @@ import { ChevronLeft, ChevronRight, CheckCircle, Circle, Home, BookOpen, Gamepad
 
 export default function HomeScreen({ setCurrentView, learnedWordsCount, totalWordsCount }) {
   return (
-    <div className="flex flex-col items-center justify-center min-h-svh">
+    <div className="flex flex-col items-center justify-center min-h-screen">
       <h1 className="text-4xl sm:text-5xl font-extrabold font-hebrewRubik text-indigo-800 mb-12 text-center drop-shadow-md">
         הכנה למבחן אמירנט
       </h1>

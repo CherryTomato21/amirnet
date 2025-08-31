@@ -144,7 +144,7 @@ export default function MatchingGame({ setCurrentView, allWords, learnedWordsInd
 
     if (isLoading) {
         return (
-            <div className="flex items-center justify-center min-h-svh">
+            <div className="flex items-center justify-center min-h-screen">
                 <p className="text-xl text-indigo-700 animate-pulse">Loading game data...</p>
             </div>
         );
@@ -152,7 +152,7 @@ export default function MatchingGame({ setCurrentView, allWords, learnedWordsInd
 
     if (error) {
         return (
-            <div className="flex flex-col items-center justify-center min-h-svh bg-red-50 p-4">
+            <div className="flex flex-col items-center justify-center min-h-screen bg-red-50 p-4">
                 <p className="text-xl text-red-700 mb-4">{error}</p>
                 <button
                     onClick={() => setCurrentView('home')}
@@ -165,7 +165,7 @@ export default function MatchingGame({ setCurrentView, allWords, learnedWordsInd
     }
 
     return (
-        <div className="flex flex-col items-center justify-center min-h-svh">
+        <div className="flex flex-col items-center justify-center min-h-screen">
             {/* Back to Home Button */}
             <button
                 onClick={() => setCurrentView('home')}
